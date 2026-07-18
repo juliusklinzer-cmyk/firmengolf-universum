@@ -9,7 +9,7 @@ Stand: 19.07.2026. Zugangsdaten liegen NICHT hier, sondern je Projekt
 |---|---|---|
 | **firmengolf.app** | Website (live seit 17.07.2026) + künftig App/Benefit | Hetzner, DNS dort |
 | **firmengolf-events.de** | Events-Plattform (live) | Hetzner |
-| firmen.golf | Alt-Domain, 301 → firmengolf.app | ⚠️ Hosting beim Ex-Partner, Redirect via Plugin — Transfer anstreben |
+| firmen.golf | NUR 301 → firmengolf.app, sonst nichts. Mails @firmen.golf werden NICHT mehr verwendet | ⚠️ Hosting beim Ex-Partner, Redirect via Plugin — Transfer anstreben |
 | visionpunch.de | 301 → firmengolf-events.de, später Onepager | Hetzner |
 
 ## Hosting

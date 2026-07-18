@@ -1,5 +1,10 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-07-19** — **firmen.golf hat genau eine Aufgabe: 301-Weiterleitung auf
+  firmengolf.app.** Mail-Adressen @firmen.golf werden nicht mehr verwendet —
+  weder als Absender noch als Empfänger, in keinem Projekt. (Domain liegt noch
+  beim Ex-Partner; Transfer angestrebt, bis dahin Redirect via Plugin.)
+
 - **2026-07-19** — Zentrales Wissens-Repo `firmengolf-universum` eingeführt:
   projektübergreifende Wahrheit + Historie via Git, Sync-Merker je Projekt.
 - **2026-07-18** — Firmengolf-App wird eigenes Projekt (`~/projects/firmengolf-app`,
