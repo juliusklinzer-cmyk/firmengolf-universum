@@ -28,6 +28,24 @@ Verträge in `Claude Firmengolf/03_Vertrieb-Golfplätze/Partnerplätze/`.
 - [ ] **Mangfalltal**: keine Galerie-Fotos, Logo nur als SVG-Rekonstruktion
 - [ ] **Jersbek / St. Eurach / Open9**: D+-Greenfee-Preise in Verträgen leer
 
+## Abgleich Website ↔ Events-Plattform (19.07.2026)
+
+Die Events-Plattform führt dieselben ~20 Anlagen als Event-Partner
+(`firmengolf-events/docs/partner-uebersicht.csv`). Gefundene Differenzen:
+
+- **Assets asymmetrisch:** Auf der Events-Seite fehlen bei 8+ Anlagen Logo/Bilder
+  (u. a. Bayerwald, Escheburg, Grambek, Chieming, Mangfalltal, Igling,
+  Schwäbisch Hall, St. Eurach) — die Website hat inzwischen für ALLE Logos,
+  Cover und teils Galerien (`themes/firmengolf/assets/img/partners/`).
+  → Übernahme in die Events-Plattform ist ein offenes Sync-To-do.
+- **Testdaten in Events:** „GC Augusta National" (fair-way-golf.com) und
+  „GC Julius Klinzer Test Greeneagle" stehen als aktive Partner in der Liste —
+  vor echtem Betrieb aufräumen/prüfen.
+- **Orts-Check Bayerwald:** Events sagt Jandelsbrunn, Website-Datenblatt nannte
+  „Bayerwald-Waldkirchen" — einmal verifizieren, was der Club selbst nutzt.
+- Kontaktdaten (Ansprechpartner/Mail/Telefon) sind in der Events-Liste fast
+  überall leer — die Website hat inzwischen info@-Adressen + Telefon je Club.
+
 ## Besondere Absprachen
 
 - **Schwäbisch Hall** (Ingo, Präsident, 16.07.2026): Schnupperkurs 6–10 Personen;

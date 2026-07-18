@@ -37,3 +37,11 @@ Stand: 19.07.2026. Zugangsdaten liegen NICHT hier, sondern je Projekt
 ## Monitoring
 
 - UptimeRobot: firmengolf.app + firmengolf-events.de.
+
+## ⚠️ Veraltete Aussagen in älteren Projekt-Dokus (Stand-Hygiene)
+
+- Events-Docs (Stand 02.07.2026) sagen „firmengolf.app reserviert, NICHT verwenden"
+  und „firmen.golf nie als Mail-Domain" — **überholt seit 17.07.2026**: Die Website
+  lebt auf firmengolf.app, Mail läuft über @firmengolf.app, firmen.golf leitet um.
+- Events-Go-Live-Runbooks referenzieren One.com — Hosting ist längst Hetzner.
+- Bei Widersprüchen zwischen Projekt-Doku und diesem Repo gilt: **dieses Repo.**
