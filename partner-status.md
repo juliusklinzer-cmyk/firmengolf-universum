@@ -33,16 +33,18 @@ Verträge in `Claude Firmengolf/03_Vertrieb-Golfplätze/Partnerplätze/`.
 Die Events-Plattform führt dieselben ~20 Anlagen als Event-Partner
 (`firmengolf-events/docs/partner-uebersicht.csv`). Gefundene Differenzen:
 
-- **Assets asymmetrisch:** Auf der Events-Seite fehlen bei 8+ Anlagen Logo/Bilder
-  (u. a. Bayerwald, Escheburg, Grambek, Chieming, Mangfalltal, Igling,
-  Schwäbisch Hall, St. Eurach) — die Website hat inzwischen für ALLE Logos,
-  Cover und teils Galerien (`themes/firmengolf/assets/img/partners/`).
-  → Übernahme in die Events-Plattform ist ein offenes Sync-To-do.
-- **Testdaten in Events:** „GC Augusta National" (fair-way-golf.com) und
-  „GC Julius Klinzer Test Greeneagle" stehen als aktive Partner in der Liste —
-  vor echtem Betrieb aufräumen/prüfen.
-- **Orts-Check Bayerwald:** Events sagt Jandelsbrunn, Website-Datenblatt nannte
-  „Bayerwald-Waldkirchen" — einmal verifizieren, was der Club selbst nutzt.
+- **Assets synchronisiert (19.07.2026, lokal):** 9 Anlagen ohne Logo/Bilder auf
+  der Events-Plattform wurden aus den Website-Assets befüllt (Bayerwald, Chieming,
+  Escheburg, Grambek, Mangfalltal, Maxlrain, Igling, Schwäbisch Hall, St. Eurach) —
+  nur Lücken gefüllt, bestehende Club-Uploads unangetastet.
+  ⚠️ Nur in der LOKALEN Events-Instanz — muss noch auf firmengolf-events.de
+  (nächstes Events-Deploy oder manuell im Live-Admin).
+- ~~Testdaten in Events~~: erledigt — Augusta National + Test Greeneagle sind
+  lokal wie live bereits gelöscht; nur `docs/partner-uebersicht.csv` war ein
+  veralteter Snapshot.
+- ~~Orts-Check Bayerwald~~: geklärt (19.07.) — offizielle Adresse ist
+  Poppenreut 11, 94118 **Jandelsbrunn** (Waldkirchen nur Bezugsort im Seitentitel);
+  Website und Events sind beide korrekt.
 - Kontaktdaten (Ansprechpartner/Mail/Telefon) sind in der Events-Liste fast
   überall leer — die Website hat inzwischen info@-Adressen + Telefon je Club.
 
