@@ -2,6 +2,14 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-07-23
+
+- **Neue Datei `kunden-updates.md`.** Sammelstelle für kundenfertige Update-Texte
+  (Partner und Firmenkunden), die Julius regelmäßig als Mail verschickt. Regel für
+  alle Projekte: nach jedem kundenrelevanten Release dort einen Eintrag ergänzen.
+  Gestartet mit den Juli-Releases der Events-Plattform (glatte Preise, mehrere
+  Ansprechpartner je Club, Website-Einbindung der Events, neue Startseite).
+
 ## 2026-07-19
 
 - **Abgleich Website ↔ Events durchgeführt.** Differenzen dokumentiert in

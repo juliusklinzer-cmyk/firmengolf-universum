@@ -33,4 +33,5 @@ das eigene Projekt hinaus hat.
 | `vertrieb.md` | Funnel, Preise, Argumente, Lead-Kanäle |
 | `infrastruktur.md` | Domains, Hosting, Mail, Keys, Accounts |
 | `entscheidungen.md` | Datierte Grundsatz-Entscheidungen |
+| `kunden-updates.md` | Kundenfertige Update-Texte für Julius' Update-Mails (nach jedem kundenrelevanten Release ergänzen) |
 | `CHANGELOG.md` | Was ist neu — für Menschen und Sessions |
