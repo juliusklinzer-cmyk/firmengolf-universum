@@ -46,3 +46,35 @@ Die mobile Navigation reagiert jetzt auf iPhone und Android sofort und ohne Ruck
 Jeder Vertragspartner bekommt seinen persönlichen Einladungslink mit vorbereitetem
 Profil. Anmelden, Platz aktivieren, erstes Event anlegen, sichtbar werden. Wer nicht
 sofort dazu kommt, wird freundlich erinnert.
+
+**[Partner] Eigene Info-Seite zum Weiterempfehlen.**
+Unter firmengolf-events.de/golfplatz-partner/ steht jetzt alles, was ein interessierter
+Club wissen muss: wie es funktioniert, was es kostet (nichts) und wie er dabei ist.
+Kennt ihr Kollegen an anderen Plätzen? Schickt ihnen einfach den Link.
+
+**[Firmen] Angebote mit Zusatzleistungen, einzeln abwählbar.**
+Catering, Technik oder Shuttle stehen im Angebot als einzelne Positionen. Vor der
+Annahme wählt ihr einfach ab, was ihr nicht braucht, der Preis passt sich sofort an.
+
+**[Alle] Die Seite ist deutlich schneller geworden.**
+Bilder und Ladezeiten wurden rundum optimiert, auch mobil und bei schwachem Netz.
+
+## Juli 2026, Woche 1 (Stand 06.07.)
+
+**[Partner] Euer neues Dashboard im Portal.**
+Nach dem Login seht ihr auf einen Blick: Profilaufrufe, Anfragen der letzten Monate,
+Buchungen und Umsatz des Jahres, eure nächste anstehende Buchung und eine
+Zu-erledigen-Liste mit allem, was gerade eure Reaktion braucht.
+
+**[Partner] Sichtbarkeits-Leitfaden und Seiten-Vorschau.**
+Eine Checkliste im Portal zeigt, was euer Profil stark macht (Fotos, Beschreibung,
+Ausstattung), und über die Vorschau seht ihr eure öffentliche Seite schon vor der
+Freischaltung genau so, wie Firmen sie später sehen.
+
+**[Firmen] Alle Golfplätze eurer Stadt auf einen Blick.**
+Die Städte-Seiten zeigen jetzt das komplette Golfplatz-Verzeichnis mit interaktiver
+Karte: alle Plätze in eurer Nähe, Firmengolf-Partner klar markiert.
+
+**[Firmen] Platzreife-Kurse für Teams als eigenes Format.**
+Aus dem Schnupperkurs-Format sind vollwertige Platzreife-Kurse geworden: über mehrere
+Tage gemeinsam zur Platzreife, als Teamerlebnis mit bleibendem Ergebnis.
