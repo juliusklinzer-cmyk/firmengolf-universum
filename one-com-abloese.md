@@ -41,6 +41,22 @@ ns1.your-server.de / ns3.second-ns.de / ns.second-ns.com stellen.
 Claude verifiziert anschließend extern (Zone, 301, MX-Auflösung), erst dann gilt
 Phase 1 als abgeschlossen.
 
+## Status-Update 27.07. (nachts, ~23:45)
+
+- **erwincklinzer.at GEKLAERT + LIVE**: Kuenstler-Nebenprojekt (Erwin C. Klinzer,
+  Elementor-Seite). one.com-Backup (Files 99MB + DB-Dump, Stand 18.06.) auf www733
+  wiederhergestellt: Ordner public_html/erwincklinzer.at, EIGENE DB c5wkuy_db1 auf
+  lx55.your-database.de (nichts mit Firmengolf vermischt), onecom-Plugins vorab
+  deaktiviert, frische wp-config, Zone A/AAAA auf www733 korrigiert (AAAA zeigte
+  auf www4!), Addon-Domain + SSL durch Julius, extern verifiziert (Titel, Login,
+  0 one.com-Reste, 301 apex→www). OFFEN: MX zeigt auf www4 (ins Leere) — nur
+  relevant, falls der Kuenstler je eine @erwincklinzer.at-Mail braucht.
+- **Events-Ausfall 22:09–22:51 aufgeklaert**: DB-Server lqxc (=sql792) war nicht
+  erreichbar (vermutl. Wartungsserie wie sql812/sql815 laut konsoleH-Status).
+  Tracker-Historie zeigt: 25.07. = DENIC-Vorfall, 23.07. = Webserver-Schluckauf
+  (events+app zeitgleich, verschiedene DB-Hosts) → KEIN chronisches lqxc-Problem,
+  kein DB-Umzug noetig. Lehre offen: automatische DB-Backups einrichten.
+
 ## Status-Update 27.07. (spaet abends)
 
 - **spotee-golf.de: Umzug KOMPLETT** (Duplicator 1,4 GB, DB lx4c/c5wkuy_db1, NS
