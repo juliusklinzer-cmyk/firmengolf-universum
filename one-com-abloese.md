@@ -41,6 +41,17 @@ ns1.your-server.de / ns3.second-ns.de / ns.second-ns.com stellen.
 Claude verifiziert anschließend extern (Zone, 301, MX-Auflösung), erst dann gilt
 Phase 1 als abgeschlossen.
 
+## Status-Update 27.07. (spaet abends)
+
+- **spotee-golf.de: Umzug KOMPLETT** (Duplicator 1,4 GB, DB lx4c/c5wkuy_db1, NS
+  geschwenkt, SSL aktiv, Installer-Dateien entfernt, one.com-Plugins deaktiviert
+  [onecom-themes-plugins, onecom-spam-protection], Mail auf M365 umgestellt
+  [MX spoteegolf-de01e...outlook, Aliase in M365 angelegt], Plugins/Core nach
+  Umzug aktualisiert [Health-Monitor-Luecken], extern voll verifiziert).
+- Verbleibend: benko-NS-Schwenk (Koch-Termin; Zone verifiziert schwenk-bereit),
+  erwincklinzer.at-Klaerung, dann Kuendigungsfreigabe. Julius-PC: hosts-Zeilen
+  (spotee IPv4+IPv6, ggf. fair-way) wieder entfernen.
+
 ## Status-Update 27.07. (abends)
 
 - **fair-way-golf.com: Umzug KOMPLETT** (Duplicator auf Hetzner, DB lx2m, NS
