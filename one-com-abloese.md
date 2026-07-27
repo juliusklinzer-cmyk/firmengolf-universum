@@ -41,6 +41,19 @@ ns1.your-server.de / ns3.second-ns.de / ns.second-ns.com stellen.
 Claude verifiziert anschließend extern (Zone, 301, MX-Auflösung), erst dann gilt
 Phase 1 als abgeschlossen.
 
+## Status-Update 27.07. (abends)
+
+- **fair-way-golf.com: Umzug KOMPLETT** (Duplicator auf Hetzner, DB lx2m, NS
+  geschwenkt, SSL aktiv, Installer-Dateien entfernt, one.com-Plugins deaktiviert,
+  M365-Mail unterbrechungsfrei, extern voll verifiziert). Einordnung von Julius:
+  Ueberbleibsel eines inzwischen insolventen Projekts, wird spaeter eh neu
+  gebaut → KEINE weitere Pflege/Optimierung investieren (PHP memory_limit 128M
+  reicht knapp; Elementor-Editor kann Memory-Fatals werfen — bewusst ignoriert,
+  bei Bedarf Serverkonfiguration → memory_limit 512M).
+- Verbleibend vor one.com-Kuendigung: spotee (DB + Duplicator + Weiterleitungs-
+  Frage), benko-NS-Schwenk (Koch-Termin), erwincklinzer.at-Klaerung (404, Zweck
+  unklar), finale Freigabe durch Claude.
+
 ## Status-Update 27.07.
 
 - Phase 1 (visionpunch) ERLEDIGT: NS auf Hetzner, extern verifiziert.
