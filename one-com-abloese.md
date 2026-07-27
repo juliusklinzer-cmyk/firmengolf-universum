@@ -41,6 +41,41 @@ ns1.your-server.de / ns3.second-ns.de / ns.second-ns.com stellen.
 Claude verifiziert anschließend extern (Zone, 301, MX-Auflösung), erst dann gilt
 Phase 1 als abgeschlossen.
 
+## Status-Update 27.07.
+
+- Phase 1 (visionpunch) ERLEDIGT: NS auf Hetzner, extern verifiziert.
+- benko: neues WordPress liegt auf dem Hetzner-Server (public_html/benko.restaurant),
+  Vhost liefert es bereits aus; hallo@ als Hetzner-Postfach angelegt + Mailimport
+  gelaufen. OFFEN: fistion@ anlegen+importieren, Koch-Termin, NS-Schwenk, SSL,
+  Delta-Mailimport, Koch-Handy (IMAP/SMTP www733.your-server.de, 993/587).
+- NEU: fair-way-golf.com gehoert ebenfalls dazu. Registrierung ist SCHON bei
+  Hetzner (kein Transfer noetig), NS noch one.com, Website = WordPress bei
+  one.com, Mail = direkt Microsoft 365 (MX fairwaygolf-com01bb...).
+- spotee + fair-way: Julius will beide Websites 1:1 zu Hetzner umziehen
+  (Duplicator-Weg wie beim Go-Live), Mails unveraendert weiterlaufen lassen.
+
+### Zonen-Soll vor dem NS-Schwenk (in konsoleH DNS-Verwaltung anpassen!)
+
+fair-way-golf.com — vorbereitete Hetzner-Zone zeigt auf FALSCHEN Server (www4):
+| Typ | Name | Soll |
+|---|---|---|
+| A | @ und www | 167.235.121.129 (statt 88.198.219.246) |
+| MX | @ | 0 fairwaygolf-com01bb.mail.protection.outlook.com. (statt www4) |
+| TXT | @ | "v=spf1 include:_spf.mlsend.com include:spf.protection.outlook.com -all" |
+(_custspf.one.com aus dem alten SPF entfaellt nach dem Wegzug; MailerLite bleibt.)
+
+spotee-golf.de — A stimmt schon (167.235.121.129); MX haengt an der Mail-Klaerung
+(one.com-Weiterleitungen fuer spotee pruefen: existieren welche, wohin?).
+
+### Cutover-Ablauf je Domain (Duplicator)
+1. Duplicator-Paket auf dem one.com-WP bauen (Julius, wp-admin), Download-Links an
+   Claude → Claude laedt Pakete und legt sie per SFTP in den Ziel-Ordner.
+2. konsoleH: neue DB je Domain (Host lqxc.your-database.de), Web-Bereich/Ordner
+   wie bei benko anlegen, Zone nach Solltabelle.
+3. NS-Schwenk → Installer im Browser am echten Domainnamen (kurzes Fenster,
+   Seiten sind wartungsarm) → SSL Manager → Permalinks speichern.
+4. Claude verifiziert extern (Seite, Blogartikel, MX/M365, SSL).
+
 ## Phase 2 — benko-restaurant.de + spotee-golf.de (werden neu aufgesetzt)
 
 1. **Postfächer sichern** (nur Julius kann das): one.com-Webmail prüfen, welche
