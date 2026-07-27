@@ -11,6 +11,14 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## Juli 2026, Woche 5 (Stand 27.07.)
+
+**[Partner] Mehr Platz für eure Fotos: bis zu 24 Bilder je Platz.**
+Das bisherige Limit von 6 Fotos stammte noch aus unserer Startphase und war für den
+Aufbau mehrerer Angebote zu knapp (danke für den Hinweis aus der Partnerschaft!).
+Ab sofort könnt ihr bis zu 24 Fotos hochladen: Platz, Clubhaus, Terrasse, Küche und
+eigene Bilder für jedes einzelne Angebot.
+
 ## Juli 2026, Woche 4 (Stand 23.07.)
 
 **[Partner] Glatte Preise für eure Angebote.**
