@@ -24,11 +24,21 @@ Stand: Juli 2026 — Basis-Mechanik live auf der Website, Details entstehen mit 
   gebaut, die betroffenen Screens (Check-in, Profil, Mitgliedschaft) werden
   auf Punkte-Anzeige angepasst.
 
+- [x] **Kurse laufen außerhalb der Punkte** (30.07.2026): je Nutzer 1×
+  Grundlagenkurs + 1× Platzreifekurs (danach dauerhaft abgeschlossen, nie
+  wieder buchbar). Während des Platzreifekurs-Zeitraums ist das Punktekonto
+  ausgesetzt — stattdessen unbegrenzte Übungsanlagen-Nutzung NUR am
+  durchführenden Platz. Kurse über 350 € können einen Selbstzahleranteil haben.
+- [x] **Keine Team-Punkte, keine Übertragbarkeit** (30.07.2026).
+- [x] **Access/Access+ auf reinen Discover-/D+-Plätzen** (30.07.2026): kein
+  Spielrecht (keine variable Auszahlung dort); optional kann der Platz ein
+  vergünstigtes Rangefee anbieten (Zahlung im Club).
+
 ## Offen / in Klärung
 
 - [ ] Punktpreise pro Leistung final je Club bestätigen (aktuelle Werte = Vertragsstand)
-- [ ] Können Punkte für Kurse/Schnuppertermine eingesetzt werden?
-- [ ] Übertragbarkeit / Team-Punkte?
+- [ ] Begriff „Grundlagenkurs" vs. „Schnupperkurs" vereinheitlichen (Website
+  sagt Schnupperkurs — betrifft Website-Texte, wenn „Grundlagenkurs" gilt)
 
 > Änderungen am Punktesystem hier dokumentieren + CHANGELOG-Eintrag — betrifft
 > App (Backend/UI), Website (Platz-Detailseiten, FAQ) und ggf. Events (Pakete).
