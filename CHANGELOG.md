@@ -2,6 +2,13 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-07-31
+
+- **Discover+-Preis auf der Website korrigiert und live: 59,90 €** (vorher
+  fälschlich 49 €) — fuer-dich + fuer-unternehmen. **Begriff festgelegt:
+  „Grundlagenkurs"** statt „Schnupperkurs" (Website-Texte nachziehen).
+  App: Rollen-Matrix (13 Rollen) und DB-Schema von Julius freigegeben.
+
 ## 2026-07-30
 
 - **Spielrechte-/Punkte-Matrix der App von Julius abgenommen** — inkl. neuer

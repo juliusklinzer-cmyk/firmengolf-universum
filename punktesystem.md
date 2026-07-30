@@ -41,8 +41,9 @@ Stand: Juli 2026 — Basis-Mechanik live auf der Website, Details entstehen mit 
 ## Offen / in Klärung
 
 - [ ] Punktpreise pro Leistung final je Club bestätigen (aktuelle Werte = Vertragsstand)
-- [ ] Begriff „Grundlagenkurs" vs. „Schnupperkurs" vereinheitlichen (Website
-  sagt Schnupperkurs — betrifft Website-Texte, wenn „Grundlagenkurs" gilt)
+- [x] **Begriff entschieden (31.07.2026): „Grundlagenkurs"** ist der offizielle
+  Name (statt „Schnupperkurs"). App nutzt ihn ab sofort; Website-Texte bei
+  nächster Gelegenheit nachziehen (Kursnamen auf Platz-Detailseiten, FAQ).
 
 > Änderungen am Punktesystem hier dokumentieren + CHANGELOG-Eintrag — betrifft
 > App (Backend/UI), Website (Platz-Detailseiten, FAQ) und ggf. Events (Pakete).
