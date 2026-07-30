@@ -39,6 +39,9 @@ Die Events-Plattform führt dieselben ~20 Anlagen als Event-Partner
   nur Lücken gefüllt, bestehende Club-Uploads unangetastet.
   ⚠️ Nur in der LOKALEN Events-Instanz — muss noch auf firmengolf-events.de
   (nächstes Events-Deploy oder manuell im Live-Admin).
+  ⚠️ Ausnahme Bayerwald: NICHT mehr deployen — der Club hat live inzwischen selbst
+  sein neues Titan-Logo hochgeladen (siehe „Besondere Absprachen"), der lokale
+  Gap-Fill (altes GLC-Logo) ist dafür obsolet.
 - ~~Testdaten in Events~~: erledigt — Augusta National + Test Greeneagle sind
   lokal wie live bereits gelöscht; nur `docs/partner-uebersicht.csv` war ein
   veralteter Snapshot.
@@ -50,6 +53,13 @@ Die Events-Plattform führt dieselben ~20 Anlagen als Event-Partner
 
 ## Besondere Absprachen
 
+- **Bayerwald → „Titan Golfclub Bayerwald"** (Termin Julius, 30.07.2026): Neuer
+  Sponsor „Titan", Club umbenannt inkl. neuem Logo. Club hat das Logo selbst auf
+  firmengolf-events.de hochgeladen (`Neues_Logo_Bayerwald.png`, 29.07.); Website
+  firmengolf.app am 30.07. nachgezogen (Name in `inc/partners.php` + Logo-Assets
+  `glc-bayerwald-logo.jpg/.webp`, Slug bleibt `glc-bayerwald`). ⚠️ Die Club-eigene
+  Website gc-bayerwald.de nennt sich Stand 30.07. noch „Golf- und Landclub
+  Bayerwald e.V." — Vertragsdokumente laufen weiter auf den alten Namen (GLC).
 - **Schwäbisch Hall** (Ingo, Präsident, 16.07.2026): Schnupperkurs 6–10 Personen;
   Gastro heißt „Brassie — das Restaurant am Grün" (gut für Workshops → Verweis auf
   firmengolf-events.de); Platzreife = „Power-Paket" (Club-Preis 599 €), via Discover:

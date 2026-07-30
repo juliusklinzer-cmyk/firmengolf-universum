@@ -2,6 +2,13 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-07-30
+
+- **Bayerwald heißt jetzt „Titan Golfclub Bayerwald"** (neuer Sponsor, neues
+  Logo). Events-Plattform hatte das neue Logo bereits (Club-Upload 29.07.);
+  Website firmengolf.app nachgezogen und live deployt (Name + Logo, Slug
+  unverändert). Details in `partner-status.md` → Besondere Absprachen.
+
 ## 2026-07-25
 
 - **DENIC-Vorfall + one.com-Ablöse-Runbook.** Alle 5 .de-Domains waren offline
