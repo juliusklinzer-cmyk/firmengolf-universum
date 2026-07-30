@@ -11,9 +11,21 @@ Stand: Juli 2026 — Basis-Mechanik live auf der Website, Details entstehen mit 
 - Kommunikation auf der Website: „Discover: übers Punktekonto · Access & Access+:
   unlimitiert".
 
-## Offen / in Klärung (für die App zu entscheiden)
+## Entschieden (Julius, 30.07.2026 — App-Planungsrunde)
 
-- [ ] Wie viele Punkte enthält ein Discover-Monat? Aufladung/Verfall?
+- [x] **Budget: 100 Punkte/Monat** (bestätigt; stand bereits als
+  `fg_punkte_budget()` im Website-Code und in der Website-Kommunikation).
+- [x] **Verfall am Monatsende, KEIN Rollover** — jeden Monat frische 100 P,
+  Rest verfällt. Begründung: einfachste Kommunikation („Monatsbudget"),
+  planbare Kosten gegenüber den Plätzen, einfaches Datenmodell
+  (Perioden-Ledger statt FIFO-Credits).
+- [x] **Punkte-System gilt für die App** — der Design-Prototyp zeigte
+  stattdessen Frei-Kontingente (4×/2× pro Monat); diese Mechanik wird NICHT
+  gebaut, die betroffenen Screens (Check-in, Profil, Mitgliedschaft) werden
+  auf Punkte-Anzeige angepasst.
+
+## Offen / in Klärung
+
 - [ ] Punktpreise pro Leistung final je Club bestätigen (aktuelle Werte = Vertragsstand)
 - [ ] Können Punkte für Kurse/Schnuppertermine eingesetzt werden?
 - [ ] Übertragbarkeit / Team-Punkte?

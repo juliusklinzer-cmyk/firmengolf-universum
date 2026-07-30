@@ -4,6 +4,14 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
 ## 2026-07-30
 
+- **Firmengolf-App: Projektstart.** Plan von Julius genehmigt (Repo
+  `firmengolf-app`, docs/architecture/plan.md + ADRs). Stack: Expo (Mitglieder-
+  App) + Next.js (Portale) + Fastify-API + Postgres, Hetzner Cloud.
+  **Punktesystem entschieden: 100 P/Monat, Verfall am Monatsende** —
+  `punktesystem.md` aktualisiert. Betrifft Website (Punkte-Kommunikation
+  bleibt gültig) und künftig die Partnerdaten-Hoheit (Phase 7: Website
+  konsumiert App-API).
+
 - **Bayerwald heißt jetzt „Titan Golfclub Bayerwald"** (neuer Sponsor, neues
   Logo). Events-Plattform hatte das neue Logo bereits (Club-Upload 29.07.);
   Website firmengolf.app nachgezogen und live deployt (Name + Logo, Slug

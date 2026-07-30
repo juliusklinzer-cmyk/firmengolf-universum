@@ -1,5 +1,16 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-07-30** — **Firmengolf-App: Projektstart mit genehmigtem Plan**
+  (Details + ADRs in `firmengolf-app/docs/`). Stack: TypeScript-Monorepo —
+  Mitglieder-App mit Expo Router (Web/PWA jetzt, native später aus derselben
+  Codebasis), Portale/Admin mit Next.js, Fastify-REST-API, Postgres 18,
+  Hetzner Cloud VPS (eigene Infrastruktur, getrennt vom Webhosting).
+  Rechtsgültige Rechnungen via Lexoffice (E-Rechnungspflicht). **Punkte-System
+  bestätigt: 100 P/Monat, Verfall am Monatsende, kein Rollover** (siehe
+  `punktesystem.md`). Arbeitsmodus: Migrationen/Auth/Zahlungen/Settlement nur
+  mit Einzelfreigabe durch Julius. Früher Mini-Pilot ab ~Woche 10 (1 Firma,
+  1 Platz, ≤ 20 Mitglieder, manuelle Abrechnung).
+
 - **2026-07-19** — **firmen.golf hat genau eine Aufgabe: 301-Weiterleitung auf
   firmengolf.app.** Mail-Adressen @firmen.golf werden nicht mehr verwendet —
   weder als Absender noch als Empfänger, in keinem Projekt. (Domain liegt noch
