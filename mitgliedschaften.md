@@ -8,7 +8,7 @@ Quelle: `Firmengolf_Mitgliedschaftslogik.docx` (Julius) · technisch umgesetzt i
 | Modell | Kern | Spielrechte |
 |---|---|---|
 | **Discover** | Reine Firmengolf-Mitgliedschaft ohne Clubbindung — der Einstieg | Training/Kurse auf Discover-Plätzen, Range & Kurzplatz übers **Punktekonto** |
-| **Discover +** | Echte Clubmitgliedschaft im Heimatclub (DGV-Ausweis, Handicap) | Punktekonto wie Discover; Platzrunden ÜBERALL (auch am Heimatclub) nur gegen (oft vergünstigtes) Greenfee — kein Freispielrecht. Präzisiert 30.07.2026 mit der App-Entscheidungsmatrix; der Heimatclub liefert Ausweis/HCP |
+| **Discover +** | Echte Clubmitgliedschaft im Heimatclub (DGV-Ausweis, Handicap). **Setzt die Platzreife voraus** — reine Greenfee-Mitgliedschaft mit Trainingspunkten für Golfer; Grundlagen-/Platzreifekurse werden D+ weder angezeigt noch sind sie buchbar (30.07.2026) | Punktekonto wie Discover; Platzrunden ÜBERALL (auch am Heimatclub) nur gegen (oft vergünstigtes) Greenfee — kein Freispielrecht. Präzisiert 30.07.2026 mit der App-Entscheidungsmatrix; der Heimatclub liefert Ausweis/HCP |
 | **Access** | Volles Spielrecht im Netzwerk | Unlimitiert auf allen Access-Plätzen |
 | **Access +** | Das große Spielrecht | Zusätzlich alle A+-Plätze |
 
