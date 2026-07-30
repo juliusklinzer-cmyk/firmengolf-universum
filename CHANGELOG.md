@@ -4,6 +4,14 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
 ## 2026-07-30
 
+- **Spielrechte-/Punkte-Matrix der App von Julius abgenommen** — inkl. neuer
+  Festlegungen: **Discover+ kostet 59,90 € (10 € Eigenanteil)** — ⚠️ Website
+  zeigt noch 49 €, Korrektur nötig; Punkte-Umrechnung 1 € = 2 P; Kursregeln
+  (1× Grundlagenkurs + 1× Platzreife je Nutzer, Punktekonto während Platzreife
+  ausgesetzt); D+-Fixum 10–20 €/Mon. Details: `mitgliedschaften.md`,
+  `punktesystem.md`, verbindlich `firmengolf-app/docs/product/
+  entscheidungsmatrix-spielrechte.md`.
+
 - **Firmengolf-App: Projektstart.** Plan von Julius genehmigt (Repo
   `firmengolf-app`, docs/architecture/plan.md + ADRs). Stack: Expo (Mitglieder-
   App) + Next.js (Portale) + Fastify-API + Postgres, Hetzner Cloud.

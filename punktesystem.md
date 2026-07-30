@@ -30,6 +30,10 @@ Stand: Juli 2026 — Basis-Mechanik live auf der Website, Details entstehen mit 
   ausgesetzt — stattdessen unbegrenzte Übungsanlagen-Nutzung NUR am
   durchführenden Platz. Kurse über 350 € können einen Selbstzahleranteil haben.
 - [x] **Keine Team-Punkte, keine Übertragbarkeit** (30.07.2026).
+- [x] **Umrechnung: 1 € = 2 Punkte** (30.07.2026): Punkte sind Gegenwerte der
+  festen Club-Preise; der Admin erfasst bei Vertragserstellung den €-Preis je
+  Leistung, das System rechnet in Punkte um (10 € Range = 20 P, 5 € = 10 P).
+  Kalkulatorisch bewusst: Worst Case zahlt Firmengolf drauf.
 - [x] **Access/Access+ auf reinen Discover-/D+-Plätzen** (30.07.2026): kein
   Spielrecht (keine variable Auszahlung dort); optional kann der Platz ein
   vergünstigtes Rangefee anbieten (Zahlung im Club).

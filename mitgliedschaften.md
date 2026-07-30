@@ -8,7 +8,7 @@ Quelle: `Firmengolf_Mitgliedschaftslogik.docx` (Julius) · technisch umgesetzt i
 | Modell | Kern | Spielrechte |
 |---|---|---|
 | **Discover** | Reine Firmengolf-Mitgliedschaft ohne Clubbindung — der Einstieg | Training/Kurse auf Discover-Plätzen, Range & Kurzplatz übers **Punktekonto** |
-| **Discover +** | Echte Clubmitgliedschaft im Heimatclub (DGV-Ausweis, Handicap) | Heimatclub-Rechte auf dem D+-Platz, überall sonst gegen (oft vergünstigtes) Greenfee |
+| **Discover +** | Echte Clubmitgliedschaft im Heimatclub (DGV-Ausweis, Handicap) | Punktekonto wie Discover; Platzrunden ÜBERALL (auch am Heimatclub) nur gegen (oft vergünstigtes) Greenfee — kein Freispielrecht. Präzisiert 30.07.2026 mit der App-Entscheidungsmatrix; der Heimatclub liefert Ausweis/HCP |
 | **Access** | Volles Spielrecht im Netzwerk | Unlimitiert auf allen Access-Plätzen |
 | **Access +** | Das große Spielrecht | Zusätzlich alle A+-Plätze |
 
@@ -22,6 +22,19 @@ Quelle: `Firmengolf_Mitgliedschaftslogik.docx` (Julius) · technisch umgesetzt i
 - Greenfee-Sonderkonditionen je Platz: `gf_dplus` / `gf_gast` (ebd.).
 - UI-Regel Partnerplätze-Karte: Nutzer wählt Modell → jede Anlage zeigt, was sie
   damit bekommt (inklusive / unlimitiert / gegen Greenfee).
+
+## Preise (Julius, 30.07.2026 — mit App-Matrix abgenommen)
+
+- Discover 49,90 €/Mon · **Discover+ 59,90 €/Mon (10 € Eigenanteil)** ·
+  Access 149 €/Mon · Access+ 199 €/Mon. AG-Anteil max. 49,90 €.
+- ⚠️ **Website zeigt für Discover+ noch 49 €** (`fg_models()` in
+  `inc/partners.php`) — auf 59,90 € korrigieren (Tier-Karten, Vergleichstabelle,
+  FAQ prüfen).
+- D+-Fixum an den Heimatclub: 10–20 €/Monat je aktivem D+-Mitglied, vertraglich
+  individuell je Club-Satzung.
+- Verbindliche Regel-Referenz für die App:
+  `firmengolf-app/docs/product/entscheidungsmatrix-spielrechte.md`
+  (abgenommen 30.07.2026).
 
 ## Perspektive
 
