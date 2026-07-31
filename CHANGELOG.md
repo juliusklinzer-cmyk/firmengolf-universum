@@ -4,6 +4,11 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
 ## 2026-07-31
 
+- **App: FG-Betreiber-Rollen freigegeben + Mini-Admin gebaut** (Details in
+  `entscheidungen.md`): platform_staff (support/finance/super_admin),
+  Freischaltung/Punkte-Korrektur/DSGVO-Funktionen im Portal unter /admin.
+  2FA für FG-Rollen bleibt offener Freigabepunkt vor Staging.
+
 - **Discover+-Preis auf der Website korrigiert und live: 59,90 €** (vorher
   fälschlich 49 €) — fuer-dich + fuer-unternehmen. **Begriff festgelegt:
   „Grundlagenkurs"** statt „Schnupperkurs" (Website-Texte nachziehen).

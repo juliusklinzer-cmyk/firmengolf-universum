@@ -1,5 +1,16 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-07-31** — **FG-Betreiber-Rollen in der App: Schema von Julius
+  freigegeben** (Einzelfreigabe laut Arbeitsmodus, in der Arbeitssession).
+  Umsetzung der abgenommenen Rollen-Matrix: Tabelle `platform_staff` mit
+  Rollen support/finance/super_admin; Vergabe NUR per CLI (`grant-admin`),
+  kein Selbst-Service in der App. Mini-Admin (Phase 2) nutzt davon
+  Freischaltung, Punkte-Korrektur (nur als adjust-Buchung, auditiert,
+  kein Selbst-Aufbuchen), DSGVO-Auskunft/-Löschung nach Löschkonzept.
+  **2FA für FG-Rollen: eigener, noch offener Freigabepunkt — hartes Gate
+  vor jedem Deployment über die lokale Dev-Umgebung hinaus.** Unabhängiger
+  Review-Pass (ADR-002) gelaufen: Urteil mergefähig nach Fix-Runde.
+
 - **2026-07-30** — **Firmengolf-App: Projektstart mit genehmigtem Plan**
   (Details + ADRs in `firmengolf-app/docs/`). Stack: TypeScript-Monorepo —
   Mitglieder-App mit Expo Router (Web/PWA jetzt, native später aus derselben
