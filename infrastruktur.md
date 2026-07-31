@@ -38,6 +38,19 @@ Stand: 19.07.2026. Zugangsdaten liegen NICHT hier, sondern je Projekt
 
 - UptimeRobot: firmengolf.app + firmengolf-events.de.
 
+## App: Betriebsregeln Auth/2FA (seit 31.07.2026)
+
+- FG-Admin-Zugänge (support/finance/super_admin) haben TOTP-2FA-Pflicht;
+  Einrichtung im Portal unter /admin/sicherheit, Backup-Codes beim Login
+  nutzbar. Dev-Ausnahme APP_FG_2FA_PFLICHT=0 wirkt NIE in Produktion.
+- ⚠️ AUTH_SECRET verschlüsselt auch die TOTP-Secrets und Backup-Codes:
+  eine Rotation des Secrets sperrt ALLE FG-Admins aus (2FA muss danach
+  neu eingerichtet werden). Rotation nur geplant, nie nebenbei.
+- Notfall-Entsperrung (Handy + Backup-Codes weg): per SQL
+  `update "user" set two_factor_enabled=false` + Zeile in two_factor
+  löschen — nur durch Julius' Betreiber-Zugang, danach 2FA sofort neu
+  einrichten.
+
 ## ⚠️ Veraltete Aussagen in älteren Projekt-Dokus (Stand-Hygiene)
 
 - Events-Docs (Stand 02.07.2026) sagen „firmengolf.app reserviert, NICHT verwenden"
