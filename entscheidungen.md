@@ -1,5 +1,15 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-08-01** — **Zahlung + Heimatclub (Julius, App-Session):**
+  (1) Zahlungsmittel in der App: Karte, SEPA, Apple Pay, Google Pay, PayPal
+  (Stripe-Checkout). (2) Bei Eigenanteil 0 € (AG-Anteil deckt alles) wird die
+  Mitgliedschaft OHNE Zahlungsmittel-Hinterlegung direkt aktiviert — bewusste
+  Abweichung vom Design-Prototyp ("Zahlungsart hinterlegen"); erst wenn der
+  Eigenanteil über 0 steigt, muss hinterlegt werden (Nachforderung bei
+  AG-Anteil-Änderung: Phase 3). (3) Heimatclub-Wahl wirkt SOFORT, keine
+  Club-Freigabe; Clubs können die Aufnahme neuer Heimatclub-Mitglieder im
+  Portal pausieren.
+
 - **2026-07-31** — **FG-Betreiber-Rollen in der App: Schema von Julius
   freigegeben** (Einzelfreigabe laut Arbeitsmodus, in der Arbeitssession).
   Umsetzung der abgenommenen Rollen-Matrix: Tabelle `platform_staff` mit
