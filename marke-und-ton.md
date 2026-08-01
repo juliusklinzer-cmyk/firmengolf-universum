@@ -12,7 +12,12 @@ Gilt für ALLE Projekte (Website, Events, App). Quelle: `VERBALE-IDENTITAET.md`
   Fokus, Gemeinschaft — attraktiv für junge Menschen.
 - Gesundheits-Aussagen nur faktenbasiert mit Studienquelle (keine Heilsversprechen).
 - Texte sind Entwürfe für Julius — nichts darf nach KI-Content klingen.
-- Claim: „Play your Benefit."
+- **KEINE Gedankenstriche in Nutzertexten** (Julius, 01.08.2026, gilt für ALLE
+  Projekte): nie „… Benefit — trainieren, lernen …". Stattdessen Satz beenden
+  oder Komma. Erlaubt bleiben Bindestriche als Wortverbindung
+  („Mitarbeiter-Benefit", „Firmen-E-Mail").
+- Claim: „Play your Benefit." — steckt im Wort-Bild-Logo; als Text NIE doppeln,
+  wenn das Logo sichtbar ist.
 
 ## Design-Grundwerte (Website-Design-System als Referenz)
 
