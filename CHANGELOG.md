@@ -81,3 +81,12 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
   (inkl. offener Fragen für die App), Partner-Status, Marke & Ton, Vertrieb,
   Infrastruktur, Entscheidungen. Alle drei Projekte sollen ab jetzt hier lesen
   (Sync-Mechanik: `.universum-stand` im Projektordner, siehe README).
+
+## 03.08.2026 (App)
+
+- **Alle drei Portale + Admin auf Design-Stand**: Admin (Dashboard, Nutzer,
+  Unternehmen, Golfplätze mit Anlage nach Punkte-System, Logo-Uploads),
+  Unternehmensportal (HR-Sichten mit Mindestgruppen-Schutz, DATEV-Export),
+  Golfplatzportal (Check-ins, Heimatclub-Verwaltung, Greenfee-Selbstservice).
+  Drei Migrationen (Platz-/Firmen-Stammdaten, Nutzungs-Snapshots), sieben
+  Review-Pässe (Design, Kritik, Datenschutz) bestanden.

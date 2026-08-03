@@ -83,3 +83,25 @@
   Website-Mails im HTML-Design mit persönlicher Julius-Signatur.
 - **2026-07-13** — Website-Neustart auf Basis des neuen Design-Handoffs; alte
   Design-Vorgaben gelten nicht mehr. firmengolf-events bleibt separates Projekt.
+
+## 03.08.2026 — Portale komplett, Vertragsdaten-Regeln (App-Session)
+
+- **AG-Anteil-Selbstservice**: Nur der Portal-OWNER einer Firma darf den
+  Arbeitgeberanteil ändern (nicht AG-Admins, Rollen-Matrix bestätigt).
+  Maximum 49,90 € (Rundungssicherheit Finanzamt), wirkt nach F3 ab
+  Folgemonat, append-only historisiert.
+- **HR-Nutzungsstatistik nur als eingefrorene Monatsabschlüsse**: write-once
+  je Firma und Monat, Mindestgruppe 5 je Monat auf Basis des eingefrorenen
+  Werts, laufender Monat nie sichtbar. Grund: Differenzbildung bei
+  Mitglieder-Wechseln hätte Einzelnutzung verraten (Threat-Model T1).
+  Arbeitgeber sehen nie schwebende Kündigungen oder Zahlungsstatus.
+- **Stammdaten zentral**: Golfplätze UND Firmen haben ihre Darstellungs- und
+  Vertragsstammdaten (Adresse, Kontakt, DGV/USt-ID, Branche, Logo) in der
+  App-Datenbank; Pflege im Admin, Selbstpflege der Portale folgt über die
+  Freigaben-Queue. Bild-Upload: PNG/JPG/WebP max 2 MB, bewusst kein SVG.
+- **Greenfee-Sonderpreise sind Platz-Selbstservice** (Owner/Manager,
+  auditiert, sofort wirksam); vertragliche Club-Preise bleiben exklusiv
+  bei Firmengolf. Modell-Erweiterung nur mit Firmengolf-Freigabe.
+- **Vier Test-Partnerplätze** (Jersbek, Bergkramerhof, Holledau, Chieming)
+  mit echten Daten aus Partnerliste + DGV-Tabelle als Testumgebung;
+  Konten testplatz_admin_1-4@visionpunch.de, vor Launch bereinigen.
