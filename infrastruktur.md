@@ -19,6 +19,15 @@ Stand: 19.07.2026. Zugangsdaten liegen NICHT hier, sondern je Projekt
   `/public_html/firmengolf.app`. DB-Server `ltyh.your-database.de`.
 - **App-Backend**: braucht später eigene Infrastruktur (Hetzner Cloud o. ä.) —
   Webhosting reicht dafür nicht.
+- **App-STAGING (seit 03.08.2026)**: läuft auf dem Wirtschaftln-Server mit
+  (Hetzner Cloud CPX12, 178.105.234.52, Nürnberg) — Kostenentscheidung
+  Julius. Eigene Docker-Gruppe unter /opt/firmengolf-staging (Postgres 18,
+  API, Worker, statische Web-App), harte Speicher-/CPU-Limits, Wirtschaftln
+  hat Vorrang und darf nichts merken. Eingang: staging.firmengolf.app über
+  den Wirtschaftln-Caddy (edge-Docker-Netz). NUR Testdaten, Stripe-Testmodus.
+  HARTE GRENZE: Zum Pilot-Start mit echten Personendaten zieht Firmengolf
+  auf einen eigenen Server (~5 €/Monat). Details:
+  firmengolf-app/deploy/staging/README.md
 
 ## Mail
 
