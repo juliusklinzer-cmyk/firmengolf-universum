@@ -1,5 +1,13 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-08-03** — **Kein Mini-Pilot** (Julius). Der früher geplante
+  geschlossene Mini-Pilot (1 Firma, ≤ 20 Mitglieder, Wo. 10-14) ist
+  GESTRICHEN. Stattdessen: Das Design wird vollständig und bis ins Detail
+  umgesetzt (komplett ausgearbeitete Prozesse), dann wird alles mit
+  Beispieldaten durchgetestet, bis es läuft; erst danach kommen echte
+  Nutzer (Go-live auf eigenem Server). Arbeitsteilung der zwei parallelen
+  Claude-Sessions: eine Frontend (Mitglieder-App), eine Backend/Portal.
+
 - **2026-08-03** — **Onboarding-Abschluss (Julius, App-Session):**
   (1) Platzreife im Onboarding ist SELBSTAUSKUNFT (ein Tipp auf "Ja" genügt,
   wird gespeichert und auditiert); die geprüfte Platzreife über die
@@ -56,8 +64,7 @@
   Rechtsgültige Rechnungen via Lexoffice (E-Rechnungspflicht). **Punkte-System
   bestätigt: 100 P/Monat, Verfall am Monatsende, kein Rollover** (siehe
   `punktesystem.md`). Arbeitsmodus: Migrationen/Auth/Zahlungen/Settlement nur
-  mit Einzelfreigabe durch Julius. Früher Mini-Pilot ab ~Woche 10 (1 Firma,
-  1 Platz, ≤ 20 Mitglieder, manuelle Abrechnung).
+  mit Einzelfreigabe durch Julius.
 
 - **2026-07-19** — **firmen.golf hat genau eine Aufgabe: 301-Weiterleitung auf
   firmengolf.app.** Mail-Adressen @firmen.golf werden nicht mehr verwendet —

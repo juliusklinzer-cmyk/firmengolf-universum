@@ -25,7 +25,7 @@ Stand: 19.07.2026. Zugangsdaten liegen NICHT hier, sondern je Projekt
   API, Worker, statische Web-App), harte Speicher-/CPU-Limits, Wirtschaftln
   hat Vorrang und darf nichts merken. Eingang: staging.firmengolf.app über
   den Wirtschaftln-Caddy (edge-Docker-Netz). NUR Testdaten, Stripe-Testmodus.
-  HARTE GRENZE: Zum Pilot-Start mit echten Personendaten zieht Firmengolf
+  HARTE GRENZE: Zum Go-live mit echten Personendaten zieht Firmengolf
   auf einen eigenen Server (~5 €/Monat). Details:
   firmengolf-app/deploy/staging/README.md
 

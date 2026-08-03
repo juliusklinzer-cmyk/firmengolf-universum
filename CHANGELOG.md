@@ -2,6 +2,11 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-08-03 (Nachtrag)
+
+- **Kein Mini-Pilot mehr**: volle Design-Umsetzung, dann Test mit
+  Beispieldaten bis alles läuft, dann Go-live (Details entscheidungen.md).
+
 ## 2026-08-03
 
 - **App: Anmelde-Flow komplett, Regel „niemand wird abgewiesen"** (Details in
