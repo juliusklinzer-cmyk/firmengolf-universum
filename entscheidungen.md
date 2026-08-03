@@ -1,5 +1,22 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-08-03** — **Anmelde-Regel (Julius, App-Session): Niemand wird
+  abgewiesen.** (1) Die Domain-Erkennung zeigt ihre Optionen DIREKT im ersten
+  Registrier-Schritt; ohne erkannten oder gewählten Arbeitgeber gibt es keinen
+  Konto-Schritt. (2) Drei Wege bei unbekannter Domain: Firma ist schon Partner
+  (aus Liste wählen, Freigabe-Anfrage mit Mail-Domain geht an den Arbeitgeber),
+  Arbeitgeber vorschlagen (Lead), Newsletter (Double-Opt-in wie Website, eigene
+  Tabelle in der App-DB, unbestätigte Einträge verfallen nach 7 Tagen).
+  (3) Domain-Freigabe heilt offene Anfragen: wird die Firmen-Domain
+  nachträglich verifiziert, werden offene Freischaltungs-Anfragen bei GENAU
+  dieser Firma automatisch aktiv (Domain-Freigabe = Firmen-Freigabe);
+  HR-Ablehnungen (blocked) bleiben unangetastet.
+
+- **2026-08-03** — **Arbeitsmodus: Codex/GPT-Delegation beendet** (Julius).
+  Genug Claude-Tokens vorhanden; alle Arbeiten inkl. Prüf-Läufe macht Claude
+  selbst. Der unabhängige Review-Pass (ADR-002) bleibt Pflicht, läuft aber
+  als Claude-Agent.
+
 - **2026-08-01** — **Zahlung + Heimatclub (Julius, App-Session):**
   (1) Zahlungsmittel in der App: Karte, SEPA, Apple Pay, Google Pay, PayPal
   (Stripe-Checkout). (2) Bei Eigenanteil 0 € (AG-Anteil deckt alles) wird die

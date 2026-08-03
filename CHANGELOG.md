@@ -2,6 +2,19 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-08-03
+
+- **App: Anmelde-Flow komplett, Regel „niemand wird abgewiesen"** (Details in
+  `entscheidungen.md`): Code-Verifikation per Mail, Optionen bei der
+  Domain-Erkennung (Partner wählen / Firma vorschlagen / Newsletter mit
+  Double-Opt-in), automatische Aktivierung offener Anfragen bei
+  Domain-Freigabe. Newsletter-Anmeldungen aus der App landen in der App-DB
+  (nicht bei der Website); bei einer späteren Zusammenführung der
+  Verteiler beachten.
+
+- **Arbeitsmodus: Codex/GPT-Delegation beendet**, Claude macht alles selbst
+  (Review-Pflicht ADR-002 unverändert).
+
 ## 2026-07-31
 
 - **App: FG-Betreiber-Rollen freigegeben + Mini-Admin gebaut** (Details in
