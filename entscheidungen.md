@@ -1,5 +1,15 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-08-03** — **Onboarding-Abschluss (Julius, App-Session):**
+  (1) Platzreife im Onboarding ist SELBSTAUSKUNFT (ein Tipp auf "Ja" genügt,
+  wird gespeichert und auditiert); die geprüfte Platzreife über die
+  Kurs-Journey bleibt unberührt. (2) Heimatclub-Wahl: Wohnort-Eingabe mit
+  Ortsvorschlägen (Google sobald Key da, bis dahin OpenStreetMap), Plätze des
+  Modells im Umkreis-Verfahren 30 km, sonst 50, sonst 100, sonst alle,
+  sortiert nach Entfernung. (3) Zahlung: eigener Zusammenfassungs-Schritt vor
+  dem Stripe-Absprung; solange die Zahlung offen ist, ist die Modell-/
+  Club-Wahl umstellbar, ab aktiver Mitgliedschaft nicht mehr.
+
 - **2026-08-03** — **Anmelde-Regel (Julius, App-Session): Niemand wird
   abgewiesen.** (1) Die Domain-Erkennung zeigt ihre Optionen DIREKT im ersten
   Registrier-Schritt; ohne erkannten oder gewählten Arbeitgeber gibt es keinen
