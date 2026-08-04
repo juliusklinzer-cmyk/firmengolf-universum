@@ -90,3 +90,13 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
   Golfplatzportal (Check-ins, Heimatclub-Verwaltung, Greenfee-Selbstservice).
   Drei Migrationen (Platz-/Firmen-Stammdaten, Nutzungs-Snapshots), sieben
   Review-Pässe (Design, Kritik, Datenschutz) bestanden.
+
+## 04.08.2026
+- Kursbindungs-Modell beschlossen (Julius): Zuschuss-Deckel 4 Monatsbeiträge
+  je Kurs, Rest Selbstzahler; Mindestlaufzeit ab Kursstart (max. 4 Monate);
+  Platzreifekurs-Bindung = Kurs-Modus ohne Punkte mit freier Übungsnutzung am
+  Kursplatz. Details in punktesystem.md. App setzt es um (Buchung, Punkte-Stopp,
+  Kündigungssperre); OFFEN: Vertragspassus Übungsnutzung während der Bindung,
+  Kurs-Modus-UI in der Member-App, AG-Kursfinanzierung als Phase-5-Baustein.
+- Owner-Onboarding Golfplatzportal: Admin lädt per Knopf ein, Mail mit
+  Passwort-festlegen-Link (Code-Flow), Status am Platz sichtbar.

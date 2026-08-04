@@ -26,9 +26,23 @@ Stand: Juli 2026 — Basis-Mechanik live auf der Website, Details entstehen mit 
 
 - [x] **Kurse laufen außerhalb der Punkte** (30.07.2026): je Nutzer 1×
   Grundlagenkurs + 1× Platzreifekurs (danach dauerhaft abgeschlossen, nie
-  wieder buchbar). Während des Platzreifekurs-Zeitraums ist das Punktekonto
-  ausgesetzt — stattdessen unbegrenzte Übungsanlagen-Nutzung NUR am
-  durchführenden Platz. Kurse über 350 € können einen Selbstzahleranteil haben.
+  wieder buchbar).
+- [x] **Kursbindungs-Modell** (04.08.2026, ersetzt die alte 350-€-Schwelle):
+  Firmengolf trägt je Kurs maximal den Zuschuss-Deckel von 4 Monatsbeiträgen
+  (199,60 €, kommuniziert "bis 200 €"); alles darüber ist Selbstzahleranteil
+  des Mitglieds (Beispiel Gut Kaden: Platzreife 359 € → 159,40 € Eigenanteil).
+  Der Zuschuss refinanziert sich über eine Mindestlaufzeit ab KURSSTART: je
+  angefangenem Monatsbeitrag im Zuschuss ein Monat, maximal 4. Kündigung wird
+  frühestens zum Bindungsende wirksam (wie Jahresvertrag); Kursabbruch ändert
+  die Bindung nicht; bei Jobwechsel wird privat weitergeführt.
+  Beim PLATZREIFEKURS gilt für die GESAMTE Bindung der Kurs-Modus: keine
+  Punkte-Gutschrift, dafür unbegrenzte Übungsanlagen-Nutzung am durchführenden
+  Platz (über die Kurspauschale abgegolten, MUSS so in den Kooperationsvertrag),
+  an fremden Plätzen Selbstzahler. Ohne Punkte-Nutzungskosten ist der Zuschuss
+  durch die laufenden Beiträge praktisch exakt gegenfinanziert. Der
+  Grundlagenkurs erzeugt nur die Mindestlaufzeit (kein Kurs-Modus).
+  Member-App: Kurs-Modus als eigene Oberfläche ("Platzreife-Programm"),
+  nach Bindungsende öffnet sich die Punkte-Golfwelt.
 - [x] **Keine Team-Punkte, keine Übertragbarkeit** (30.07.2026).
 - [x] **Umrechnung: 1 € = 2 Punkte** (30.07.2026): Punkte sind Gegenwerte der
   festen Club-Preise; der Admin erfasst bei Vertragserstellung den €-Preis je
