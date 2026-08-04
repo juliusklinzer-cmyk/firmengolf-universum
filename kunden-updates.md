@@ -11,6 +11,28 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 1 (Stand 04.08.)
+
+**[Alle] Kurse werden planbar: fester Zuschuss, faire Bindung.**
+Firmengolf übernimmt bei Grundlagen- und Platzreifekursen bis zu 200 Euro der
+Kursgebühr. Liegt der Kurs eures Platzes darüber, zahlt ihr nur die Differenz
+selbst (Beispiel: 359-Euro-Kurs heißt 159,40 Euro Eigenanteil). Im Gegenzug
+läuft die Mitgliedschaft ab Kursstart mindestens so viele Monate weiter, wie
+der Zuschuss an Monatsbeiträgen ausmacht, maximal vier. So bleibt der Einstieg
+in den Golfsport günstig und ehrlich kalkuliert.
+
+**[Alle] Während des Platzreife-Programms: unbegrenzt üben am Kursplatz.**
+Wer den Platzreifekurs bucht, ist für die Dauer der Kursbindung im
+Platzreife-Programm: Range und Übungsanlagen des Kursplatzes stehen
+unbegrenzt offen, ohne Punkte zählen zu müssen. Nach dem Programm öffnet
+sich die ganze Firmengolf-Golfwelt mit dem Punktekonto.
+
+**[Partner] Euer Portal-Zugang kommt jetzt per Einladung.**
+Sobald euer Platz bei uns eingerichtet ist, bekommt ihr eine E-Mail mit einem
+Link, über den ihr euer Passwort selbst festlegt. Danach seht ihr im
+Golfplatzportal eure Check-ins und Nutzung, plant Kurstermine und pflegt eure
+Greenfee-Sonderpreise.
+
 ## Juli 2026, Woche 5 (Stand 27.07.)
 
 **[Partner] Mehr Platz für eure Fotos: bis zu 24 Bilder je Platz.**
