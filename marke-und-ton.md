@@ -26,6 +26,11 @@ Gilt für ALLE Projekte (Website, Events, App). Quelle: `VERBALE-IDENTITAET.md`
 - Logos: `assets/img/logos/` im Website-Theme (Wort-Bild weiß/türkis, F-Bildmarke)
 - E-Mail-Design: Navy-Kopf mit Logo, weiße Karte, Mint-Button, Signatur
   „Julius Klinzer · Gründer Firmengolf", Impressum-Fußzeile (`fg_email_wrap()`)
+- **Modell-Farben (fix, GLOBAL für alle Seiten, Julius 04.08.2026):**
+  Discover Violett `#C19AF4` · Discover + Blau `#4279D1` · Access Teal
+  `#2C8C99` · Access + Navy `#20294D`. Einzige Änderungsstelle:
+  `packages/tokens` in der App (`--fg-modell-*` in tokens.css + tokens.ts);
+  Website und Events ziehen bei Modell-Darstellungen dieselben Werte nach.
 
 ## Gemeinsame Accounts
 

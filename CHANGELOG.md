@@ -100,3 +100,6 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
   Kurs-Modus-UI in der Member-App, AG-Kursfinanzierung als Phase-5-Baustein.
 - Owner-Onboarding Golfplatzportal: Admin lädt per Knopf ein, Mail mit
   Passwort-festlegen-Link (Code-Flow), Status am Platz sichtbar.
+- Modell-Farben fixiert (04.08., global): Discover #C19AF4, Discover+ #4279D1,
+  Access #2C8C99, Access+ #20294D. Quelle: packages/tokens der App
+  (--fg-modell-*). Details marke-und-ton.md.
