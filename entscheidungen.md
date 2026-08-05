@@ -157,3 +157,49 @@ keine abweichenden Zahlen kommunizieren.
   ausschließlich unsere Check-ins mit ihren eingefrorenen Snapshots. Wer
   abweichen will, braucht einen Korrekturposten mit Begründung.
 
+## 05.08.2026 (Nachtrag) — Zahlungsgebühren und Beitragsbeginn
+
+**Zahlungsgebühren (recherchiert, Stripe-Preisliste 05.08.2026)**
+Stripe kostet uns: EWR-Standardkarte 1,5 Prozent plus 0,25 Euro,
+EWR-Premiumkarte 2,8 Prozent plus 0,25 Euro, Karte aus dem Vereinigten
+Königreich 2,5 Prozent, internationale Karte 3,15 Prozent (plus 2 Prozent
+bei Währungsumrechnung), SEPA-Lastschrift 0,35 Euro pauschal ohne
+Prozentsatz. Auf Abo-Zahlungen kommen 0,7 Prozent Billing-Gebühr obendrauf.
+
+Festgelegt (Julius: oberen Satz nehmen und aufrunden):
+- **Eigenanteil der Mitglieder: 3,5 Prozent plus 0,25 Euro.** Das ist
+  Premiumkarte plus Billing und deckt jede EWR-Karte ab. Eine Karte von
+  außerhalb des EWR läge mit rund 3,85 Prozent darüber.
+- **Sammelrechnung der Unternehmen: 0,7 Prozent plus 0,35 Euro.** Das ist
+  SEPA-Lastschrift plus Billing. Zahlt das Unternehmen per Überweisung,
+  entstehen gar keine Zahlungskosten, dann gehört dort 0 hinein.
+- Abrechnungslogik: Für Unternehmen ist es EINE Zahlung je Monat, ihre
+  Gebühr wird im Verhältnis der Arbeitgeberanteile auf die Beitragszeilen
+  verteilt. Für Selbstzahler ist es eine Zahlung je Mitglied und Monat.
+- Die Sätze sind im Admin gepflegt und append-only historisiert (ein neuer
+  Satz gilt ab dem nächsten Monatsersten, gerechnete Monate bleiben
+  unverändert). Sobald die tatsächliche Stripe-Gebühr einer Zahlung
+  vorliegt, überschreibt sie den Satz.
+
+**Beitragsbeginn bei Eintritt mitten im Monat**
+- **Volle Monatspakete, keine Tagesanteile** — weder beim Mitglied noch
+  beim Arbeitgeber. Wer am 10. beitritt, bekommt die vollen 100 Punkte und
+  zahlt den vollen Monatsbeitrag; der Arbeitgeber bekommt nie anteilige
+  Positionen auf seiner Sammelrechnung. Begründung: Die Leistung wird
+  ohnehin im Monatspaket gewährt (100 Punkte, Verfall am Monatsende), also
+  wird sie auch im Monatspaket berechnet. Anteilige Sachbezüge hätten die
+  Lohnabrechnung der Firmenkunden unnötig verkompliziert.
+- Der Einnahmenlauf läuft deshalb **täglich** statt nur am Monatsersten,
+  damit ein Beitritt mitten im Monat noch auf der laufenden Sammelrechnung
+  landet und uns keine Kosten ohne Gegenwert entstehen.
+- **Sammelrechnungen werden erst nach Monatsende freigegeben.** Eine
+  freigegebene Rechnung ist unveränderlich; wer im laufenden Monat noch
+  beitritt, gehört noch darauf.
+- Marktvergleich: EGYM Wellpass lässt Mitgliedschaften immer zum
+  Monatsersten starten (Anmeldeschluss der 20.), Golfclubs rechnen bei
+  unterjährigem Eintritt ab dem Eintrittsmonat in vollen Monaten. Unsere
+  Regel entspricht der Golfclub-Praxis und ist für Mitglieder freundlicher,
+  weil sie sofort spielen können.
+- **Kurs-Eigenanteil zahlt das Mitglied direkt im Club** (Julius 05.08.),
+  Firmengolf zieht ihn nicht ein und vergütet dem Platz nur den Zuschuss.
+

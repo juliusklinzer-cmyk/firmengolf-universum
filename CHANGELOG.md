@@ -2,6 +2,19 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-08-05 (Nachtrag)
+
+- **Zahlungsgebühren festgelegt und recherchiert** (Details
+  `entscheidungen.md`): 3,5 Prozent plus 0,25 Euro auf Eigenanteile,
+  0,7 Prozent plus 0,35 Euro auf Sammelrechnungen, im Admin pflegbar und
+  historisiert. Relevant für jede Preiskommunikation, weil die Gebühr die
+  Auszahlung an die Plätze mindert.
+- **Volle Monatspakete statt Tagesanteile**: Beitrag und Leistung werden nie
+  anteilig berechnet. Betrifft Website-Texte und Vertriebsargumentation
+  gegenüber Firmenkunden (keine anteiligen Sachbezüge in der Lohnabrechnung).
+- **Kurs-Eigenanteil zahlt das Mitglied direkt im Club**, Firmengolf zieht
+  ihn nicht ein.
+
 ## 2026-08-05
 
 - **Geldfluss vollständig festgelegt** (Details `entscheidungen.md`):
