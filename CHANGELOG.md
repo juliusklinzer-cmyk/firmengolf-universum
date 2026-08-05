@@ -103,3 +103,9 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 - Modell-Farben fixiert (04.08., global): Discover #C19AF4, Discover+ #4279D1,
   Access #2C8C99, Access+ #20294D. Quelle: packages/tokens der App
   (--fg-modell-*). Details marke-und-ton.md.
+- Zahlungsfehler behoben (05.08.): Jahresverträge wurden mit dem Monatsbetrag
+  einmal pro Jahr abgebucht; alle Modelle laufen jetzt monatlich. Kündigung
+  und Ende stoppen zusätzlich das Stripe-Abo.
+- D+-Fixvergütung: Standard 15 Euro je Mitglied und Monat, je Platz pflegbar.
+- Bestandsänderungen gebaut: Modellwechsel, Heimatclub-Wechsel, F5-Austritt,
+  F6-Koop-Ende, administratives Beenden.

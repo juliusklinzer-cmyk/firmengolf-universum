@@ -43,6 +43,18 @@ Stand: Juli 2026 — Basis-Mechanik live auf der Website, Details entstehen mit 
   Grundlagenkurs erzeugt nur die Mindestlaufzeit (kein Kurs-Modus).
   Member-App: Kurs-Modus als eigene Oberfläche ("Platzreife-Programm"),
   nach Bindungsende öffnet sich die Punkte-Golfwelt.
+- [x] **D+-Fixvergütung: Standard 15 Euro** (05.08.2026, Julius): Je
+  aufgenommenem Discover-Plus-Mitglied und Monat zahlt Firmengolf dem
+  Heimatclub eine Fixvergütung. Pilotrahmen 10 bis 20 Euro (je nach Satzung
+  des Clubs verhandelbar), **Standard 15 Euro**. Der Wert steht je Platz im
+  System (courses.dplus_fix_cents) und wird im Admin gepflegt; Grundlage für
+  die Abrechnung ab Phase 5.
+- [x] **Bestandsänderungen** (05.08.2026): Modellwechsel im Bestand (Upgrade
+  sofort, Downgrade zum Laufzeitende und nie vor Ende einer Kursbindung),
+  Heimatclub-Wechsel (sofort), Firmenaustritt nach F5 (Monatsmodell: Ende zum
+  Monatsende; Jahresvertrag zusätzlich privat fortführen bis 31.12. oder
+  Übertrag zu einem Partnerunternehmen), Kooperationsende nach F6 (alle
+  Mitgliedschaften zum 31.12.) und administratives Beenden im Support-Notfall.
 - [x] **Keine Team-Punkte, keine Übertragbarkeit** (30.07.2026).
 - [x] **Umrechnung: 1 € = 2 Punkte** (30.07.2026): Punkte sind Gegenwerte der
   festen Club-Preise; der Admin erfasst bei Vertragserstellung den €-Preis je
