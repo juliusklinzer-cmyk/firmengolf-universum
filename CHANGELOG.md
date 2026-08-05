@@ -2,6 +2,19 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-08-05
+
+- **Geldfluss vollständig festgelegt** (Details `entscheidungen.md`):
+  15 Prozent Vermittlung vom vollen Beitrag, tatsächliche Zahlungsgebühren,
+  Rest halbiert in monatlichen Fixanteil an den Heimatclub und halbjährlichen
+  Pool nach Nutzungsfaktoren mit Greenfee-Deckel je Nutzung. Discover und
+  Discover Plus separat über Anlage 1. Wirkung über die App hinaus: Website
+  und Vertrieb dürfen keine abweichenden Prozentsätze oder Auszahlungsregeln
+  nennen.
+- **Halbjährliche Platzmeldung** als Kontrollinstrument eingeführt (Stichtage
+  Ende Juni und Ende Dezember, reiner Abgleich ohne Wirkung auf die
+  Auszahlung). Relevant für Kooperationsverträge und Partnerkommunikation.
+
 ## 2026-08-03 (Nachtrag)
 
 - **Kein Mini-Pilot mehr**: volle Design-Umsetzung, dann Test mit

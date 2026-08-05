@@ -11,6 +11,32 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 1 (Stand 05.08.)
+
+**[Partner] Ihre Vergütung wird im Portal transparent.**
+Im Golfplatzportal gibt es ab sofort den Bereich Vergütung. Dort sehen Sie jede
+freigegebene Auszahlung mit Periode und Betrag: den monatlichen Fixanteil für Ihre
+Heimatmitglieder, die dokumentierten Nutzungen nach Ihren Club-Preisen und die
+Fixvergütung je Discover-Plus-Mitglied. Der variable Anteil wird halbjährlich nach
+den tatsächlichen Nutzungen ausgeschüttet. Sie sehen nur freigegebene Zahlen, damit
+Sie nie mit Beträgen planen, die sich noch ändern.
+
+**[Partner] Halbjahres-Meldung: zwei Stichtage im Jahr.**
+Ende Juni und Ende Dezember bitten wir Sie um einen Export der bei Ihnen erfassten
+Nutzungen. Sie laden ihn direkt im Portal hoch und sehen sofort, wie viele Zeilen zu
+unseren Check-ins passen und wo es Abweichungen gibt. Wichtig: Diese Meldung ändert
+Ihre Auszahlung nicht. Sie ist unser gemeinsames Kontrollinstrument, damit Abweichungen
+auffallen, bevor eine Ausschüttung freigegeben wird. Das Format ist eine
+Semikolon-Datei mit der Kopfzeile datum;uhrzeit;email;leistung.
+
+**[Firmen] Kosten und Rechnungen auf einen Blick.**
+Im Unternehmensportal finden Sie unter Kosten & Rechnungen jetzt Ihre monatlichen
+Sammelrechnungen mit der Aufstellung je Mitarbeiter. Sie zahlen ausschließlich den
+Arbeitgeberanteil. Eigenanteile Ihrer Mitarbeitenden und Kursgebühren rechnen wir
+direkt mit den Teilnehmenden ab, diese Beträge erscheinen in Ihrer Rechnung nicht.
+
+---
+
 ## August 2026, Woche 1 (Stand 04.08.)
 
 **[Alle] Kurse werden planbar: fester Zuschuss, faire Bindung.**

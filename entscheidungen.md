@@ -105,3 +105,55 @@
 - **Vier Test-Partnerplätze** (Jersbek, Bergkramerhof, Holledau, Chieming)
   mit echten Daten aus Partnerliste + DGV-Tabelle als Testumgebung;
   Konten testplatz_admin_1-4@visionpunch.de, vor Launch bereinigen.
+
+## 05.08.2026 — Geldfluss beschlossen: Forderungen und Vergütung (App-Session)
+
+Julius hat die vollständige Abrechnungslogik festgelegt. Sie gilt ab sofort
+projektübergreifend als verbindliche Rechenregel; Website und Events dürfen
+keine abweichenden Zahlen kommunizieren.
+
+**Einnahmen (Forderungsseite)**
+- Jedes aktive Mitglied erzeugt je Monat eine Beitragszeile mit dem vollen
+  Monatsbeitrag, aufgeteilt in Arbeitgeberanteil und Eigenanteil.
+- Unternehmen bekommen EINE monatliche Sammelrechnung, die ausschließlich
+  Arbeitgeberanteile enthält. Eigenanteile und Kurs-Selbstzahlerbeträge
+  rechnet Firmengolf direkt mit den Mitgliedern ab und zeigt sie dem
+  Arbeitgeber nie.
+- Selbstzahlerbeträge sind trotzdem vollständig bei uns hinterlegt
+  (Beitrags-Eigenanteile und Kurs-Eigenanteile getrennt auswertbar).
+- Freigegebene Rechnungen sind unveränderlich.
+
+**Ausgaben (Vergütungsseite), Anlage 2**
+- Vermittlungspauschale Firmengolf: 15 Prozent vom VOLLEN Monatsbeitrag.
+- Zahlungsabwicklung: die tatsächliche Stripe-Gebühr der jeweiligen Zahlung,
+  nicht ein pauschaler Schätzwert.
+- Was übrig bleibt, wird halbiert: 50 Prozent gehen als monatlicher Fixanteil
+  an den Heimatclub, 50 Prozent in einen Pool. Ein ungerader Cent bleibt beim
+  Fixanteil, weil der die monatlich verlässliche Größe für den Club ist.
+- Der Pool wird halbjährlich nach Nutzungsfaktoren ausgeschüttet, und zwar JE
+  MITGLIED, nicht global. Nur so bleibt clubübergreifendes Spielen korrekt
+  zugeordnet: wer vier Runden auf Platz A und eine auf Platz B spielt,
+  verteilt seinen eigenen Poolanteil im Verhältnis 4 zu 1.
+- Obergrenze je Nutzung: höchstens ein volles Greenfee des jeweiligen Platzes.
+  Was darüber liegt (Wenigspieler), geht an den Heimatplatz.
+- Wer im Halbjahr gar nicht spielt: der komplette Poolanteil geht an den
+  Heimatplatz.
+- Ohne Heimatclub und ohne Nutzung bleibt der Betrag als "unverteilt"
+  ausgewiesen. Geld verschwindet nie stillschweigend.
+- Discover und Discover Plus laufen NICHT über das Faktorenmodell, sondern
+  über Anlage 1: Club-Preis je dokumentierter Nutzung plus 15 Euro
+  Fixvergütung je Discover-Plus-Mitglied und Monat.
+- Freigegebene Vergütungsläufe sind unveränderlich. Korrekturen ausschließlich
+  als Korrekturposten mit Begründung.
+
+**Halbjährliche Platzmeldung (Stichtage)**
+- Zu den Stichtagen Ende Juni und Ende Dezember liefert jeder Partnerplatz
+  einen Export seiner erfassten Nutzungen (Semikolon-Datei, Kopfzeile
+  datum;uhrzeit;email;leistung).
+- Die Meldung wird gegen unsere Check-ins abgeglichen und zwar in beide
+  Richtungen: was der Platz meldet und wir nicht haben, und was wir haben und
+  in der Meldung fehlt.
+- Die Meldung verändert KEINE Auszahlung. Grundlage der Vergütung bleiben
+  ausschließlich unsere Check-ins mit ihren eingefrorenen Snapshots. Wer
+  abweichen will, braucht einen Korrekturposten mit Begründung.
+
