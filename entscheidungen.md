@@ -227,3 +227,33 @@ Festgelegt (Julius: oberen Satz nehmen und aufrunden):
   Eintrittsmonat) und MUSS in AGB und Kooperations-/Firmenverträgen klar
   stehen, damit es bei den Firmenkunden nicht zu Diskussionen führt.
 
+## 06.08.2026 (Nachtrag) — Nummern, Buchungswege, Vertragspflege
+
+- **Verträge werden 2026 NICHT mehr angepasst.** Die laufenden Verträge gelten
+  nur für dieses Jahr. Alle Änderungen und Ergänzungen werden in
+  `vertrag-2027.md` gesammelt und Ende des Jahres in einen neuen Vertrag für
+  das Pilotjahr 2027 überführt, der Verlängerung und Änderungen in einem Zug
+  kommuniziert und abgesegnet wird.
+- **Firmengolf-Nummern** für Golfplätze, Unternehmen und Mitglieder, automatisch
+  bei der Anlage vergeben: Format `FG-P-0001`, `FG-U-0001`, `FG-M-0001`
+  (Gruppenkürzel, laufende Nummer). Bewusst OHNE Modell im Schlüssel, damit ein
+  Upgrade die Nummer nicht ändert und der Ausweis in der Tasche weiter zu den
+  Meldedateien der Plätze passt. Ersetzt mittelfristig die E-Mail-Adresse in
+  den CSV-Wegen und entspricht damit Anlage 3 des Vertrags.
+- **SEPA-Mandat von Anfang an** für die Sammelrechnungen der Unternehmen, weil
+  es im Betrieb deutlich einfacher ist als Überweisungen nachzuhalten. Kosten
+  0,35 Euro je Unternehmen und Monat.
+- **Drei Wege der Startzeitbuchung** (Julius 06.08.): (1) Buchung direkt im
+  Firmengolf-System für Plätze ohne eigenes Startzeitensystem, etwa mit
+  Ballspirale. (2) Weiterleitung in das eigene Buchungssystem des Clubs, etwa
+  PC Caddie — der Regelfall; dazu bekommt der Club eine Anleitung, wie er
+  Mitglieder und Nutzungen so dokumentiert, dass die halbjährliche CSV
+  auswertbar ist. (3) Später: Schnittstellen zu Albatros, PC Caddie und
+  Club in One.
+- **Greenfee-Preise sind reine Information** für Nutzer OHNE Spielrecht auf
+  dem jeweiligen Angebot und werden vor Ort im Club bezahlt. Sie berühren
+  unsere Zahlläufe nicht. Die variable Ausschüttung läuft über die
+  Faktorentabelle. ACHTUNG: Der Vertrag nennt in Anlage 2 Ziffer 5.2 eine
+  Obergrenze je Nutzung am regulären Greenfee — Widerspruch, siehe
+  `vertrag-2027.md` Abschnitt F.
+
