@@ -402,3 +402,24 @@ zahlungsrelevanten Faktoren unserer Mitglieder an Anlagen ohne eigenes System
   Gastspieler ohne Firmengolf zahlen das volle Greenfee und erhalten nicht
   die Firmengolf-Konditionen. Das regelt der Platz selbst.
 
+
+## 07.08.2026 — Kurse als vollwertiges Produkt, Module bestimmen die Journey
+
+- **Ein Kurs ist mehr als ein Termin** (Julius, Nachtschicht-Auftrag): Der
+  Golfplatz pflegt beim Anlegen und Bearbeiten die komplette Anzeige, die das
+  Mitglied in der App sieht: Titel, Beschreibung, Kategorie (Unter der Woche,
+  Wochenende, Afterwork), Dauer, Golfpro aus dem eigenen Trainerteam,
+  Leihschläger und Rangebälle inklusive, Kursbild, Besonderes.
+- **Platzreife: bis zu zwölf Einzeltermine je Kurs, jeder Termin ist ein
+  Modul** mit eigener Überschrift, Beschreibung, Praxis oder Theorie, Zeitpunkt
+  und optionalem Trainer. Diese Module SIND die Golfweg-Journey des
+  Teilnehmers in der App; der bisherige feste Sieben-Schritte-Katalog gilt nur
+  noch als Rückfall für Altbestand. Kursbeginn und Kursende ergeben sich aus
+  erstem und letztem Termin. Der Golflehrer bestätigt Modul für Modul, das
+  letzte Modul setzt die Platzreife.
+- **Grundlagenkurse als Serie**: wöchentlich oder monatlich mit Wochentag,
+  Uhrzeit und Zeitraum angelegt; je Termin entsteht ein eigener buchbarer
+  Kurs, damit einzelne Termine absagbar bleiben.
+- **Preis und Mindestlaufzeit sind Vertragswerte** und im Formular des
+  Platzes sichtbar, aber gesperrt. Das Kurs-Badge (z.B. "Beliebt") vergibt
+  ausschließlich Firmengolf, nicht der Platz.
