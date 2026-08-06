@@ -203,3 +203,27 @@ Festgelegt (Julius: oberen Satz nehmen und aufrunden):
 - **Kurs-Eigenanteil zahlt das Mitglied direkt im Club** (Julius 05.08.),
   Firmengolf zieht ihn nicht ein und vergütet dem Platz nur den Zuschuss.
 
+## 06.08.2026 — Zahlungswege und Heimatclub-Jahresbindung
+
+- **Unternehmen zahlen per Banküberweisung** auf eine normale Rechnung. Dabei
+  läuft kein Stripe mit, also entstehen keine Zahlungskosten, die den Plätzen
+  abgezogen werden dürften. Der Gebührensatz für Firmenrechnungen steht
+  deshalb auf null. Nur Selbstzahler verursachen Stripe-Kosten
+  (3,5 Prozent plus 0,25 Euro). Steigt ein Unternehmen später auf
+  SEPA-Lastschrift um, gehören dort 0,35 Euro hinein.
+- **Der Heimatclub ist an das Kalenderjahr gebunden** (DGV-Realität, Julius
+  06.08.): Der Heimatclub stellt den DGV-Ausweis für das ganze Jahr aus und
+  meldet das Mitglied für dieses Jahr an den Verband. Ein Wechsel mitten im
+  Jahr ist damit ausgeschlossen und wird im System abgelehnt; er wirkt immer
+  erst zum 1. Januar. Wichtige Folge für die Abrechnung: In der
+  Halbjahres-Ausschüttung kann kein Clubwechsel stattgefunden haben, ein
+  Snapshot des Heimatclubs je Monat ist deshalb nicht nötig.
+- **Discover hat keinen Heimatclub**: Ein Discover-Mitglied ist nur bei
+  Firmengolf Mitglied, nicht in einem Golfclub. Erst ab Discover Plus gibt es
+  eine echte Clubmitgliedschaft mit Ausweis.
+- **Volle Monatspakete gelten auch bei Eintritt kurz vor Monatsende**
+  (bestätigt Julius 06.08.). Wer am 25. eintritt, löst den vollen
+  Arbeitgeberanteil aus. Das entspricht der Praxis der Golfclubs (Beitrag ab
+  Eintrittsmonat) und MUSS in AGB und Kooperations-/Firmenverträgen klar
+  stehen, damit es bei den Firmenkunden nicht zu Diskussionen führt.
+
