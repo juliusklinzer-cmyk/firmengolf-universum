@@ -339,3 +339,37 @@ der Kursmodule ergibt sich automatisch aus deren festen Terminen (kein
 manuelles Abhaken); Terminänderungen durch Golflehrer oder Platz gehen als
 Push-Nachricht an die Teilnehmer. Harte Durchsetzung der Sperre serverseitig
 (offen, siehe App-Repo docs/backend-aufgaben-frontend.md Punkt 10).
+
+## 06.08.2026 (4. Nachtrag) — Faktoren-Erfassung an Plätzen ohne Buchungssystem
+
+Klarstellung Julius: Das Firmengolf-Startzeitensystem ist KEINE
+Startzeiten-Lösung für den Golfplatz. Es dient ausschließlich dem Erfassen der
+zahlungsrelevanten Faktoren unserer Mitglieder an Anlagen ohne eigenes System
+(typisch: wenig Betrieb, Ballspirale am Abschlag).
+
+- **Der Standardweg ist der QR-Scan am Abschlag**, auch für 9 und 18 Loch —
+  wie an der Range. Die Startzeitbuchung in der App ist freiwilliger Komfort
+  obendrauf, keine Pflicht.
+- **Der Marshal-Scan bestätigt die Wahrnehmung**: Eine Buchung ist nur eine
+  Reservierung. Scannt der Marshal den Spielerausweis, wird die Runde im
+  selben Zug als dokumentierte Nutzung erfasst und der Faktor gewertet. Der
+  Marshal sieht sofort, ob die Runde zählt oder warum nicht (etwa Punkte
+  erschöpft, dann Verweis an die Rezeption).
+- **Schabernack-Grenze**: Höchstens zwei Platzrunden je Mitglied und Tag, über
+  alle Plätze hinweg. 36 Loch am Tag sind Spielbetrieb, die dritte Runde ist
+  Faktoren-Sammeln. Nicht als perfekte Sicherheit gedacht, sondern so, dass
+  normaler Spielbetrieb nie behindert wird.
+- **Auffälligkeiten-Markierung im Admin**: Wer wiederholt Startzeiten bucht
+  und ohne Absage nicht erscheint, wiederholt abgelehnte Check-ins sammelt
+  oder mehrfach mit ungültigem Ausweis geprüft wird, erscheint mit
+  Kontaktdaten in einer Liste. Kein automatischer Bann; ansprechen und
+  entscheiden tut ein Mensch. Die Signale werden bei jedem Aufruf frisch
+  berechnet, es gibt keinen gespeicherten Marker, der jemandem nachhängt.
+- **Mitteilung an den Platz**: Bei jeder Gastbuchung und jeder Absage geht
+  eine Mail an die Anlage, denn ohne sie erführe sie von einem
+  Firmengolf-Gast nur durch Zufall. Dazu die Tagesliste im Portal fürs
+  Starterhäuschen.
+- **Spielerausweis in der App** zeigt Name, Modell, Firmengolf-Nummer,
+  Profilbild (folgt), QR-Code und die heutige Startzeit mit Platz, Uhrzeit
+  und Personenzahl.
+
