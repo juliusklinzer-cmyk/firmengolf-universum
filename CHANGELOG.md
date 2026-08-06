@@ -8,7 +8,9 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
   pflegt die komplette Kurs-Anzeige selbst; bei Platzreifekursen bestimmen bis
   zu zwölf Einzeltermine mit Überschrift und Beschreibung die Golfweg-Journey
   in der App. Preis und Mindestlaufzeit bleiben Vertragswerte, das Kurs-Badge
-  vergibt nur Firmengolf. Relevant für Angebotskommunikation der Plätze.
+  vergibt nur Firmengolf. Kurs-Tags kommen aus einem festen
+  Firmengolf-Vokabular (Afterwork, Express, Intensiv, Wochenende),
+  Mehrfachauswahl je Kurs. Relevant für Angebotskommunikation der Plätze.
 
 ## 2026-08-05 (Nachtrag)
 

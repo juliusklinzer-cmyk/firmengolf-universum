@@ -407,9 +407,14 @@ zahlungsrelevanten Faktoren unserer Mitglieder an Anlagen ohne eigenes System
 
 - **Ein Kurs ist mehr als ein Termin** (Julius, Nachtschicht-Auftrag): Der
   Golfplatz pflegt beim Anlegen und Bearbeiten die komplette Anzeige, die das
-  Mitglied in der App sieht: Titel, Beschreibung, Kategorie (Unter der Woche,
-  Wochenende, Afterwork), Dauer, Golfpro aus dem eigenen Trainerteam,
-  Leihschläger und Rangebälle inklusive, Kursbild, Besonderes.
+  Mitglied in der App sieht: Titel, Beschreibung, Tags, Dauer, Golfpro aus
+  dem eigenen Trainerteam, Leihschläger und Rangebälle inklusive, Kursbild,
+  Besonderes.
+- **Tags statt Einzel-Kategorie** (Julius, gleicher Tag): Firmengolf gibt ein
+  festes Vokabular vor (Afterwork, Express, Intensiv, Wochenende), der Platz
+  wählt per Mehrfachauswahl GENAU daraus, damit die Begriffe an allen Plätzen
+  gleich heißen. "All Inclusive" ist bewusst kein Tag, das sagt schon die
+  Preis-Anzeige "Inklusive".
 - **Platzreife: bis zu zwölf Einzeltermine je Kurs, jeder Termin ist ein
   Modul** mit eigener Überschrift, Beschreibung, Praxis oder Theorie, Zeitpunkt
   und optionalem Trainer. Diese Module SIND die Golfweg-Journey des
