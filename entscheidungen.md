@@ -257,3 +257,37 @@ Festgelegt (Julius: oberen Satz nehmen und aufrunden):
   Obergrenze je Nutzung am regulären Greenfee — Widerspruch, siehe
   `vertrag-2027.md` Abschnitt F.
 
+## 06.08.2026 (2. Nachtrag) — Upgrade-Regel, Nummernkreise, Platzsicht
+
+- **Unterjähriges Upgrade: Überschuss geht in den Pool** (entschieden Julius).
+  Wechselt ein Mitglied unterjährig auf ein höheres Modell, das sein
+  Heimatclub nicht führt, bleibt der Heimatclub bis Jahresende Heimatclub und
+  bekommt genau den Fixanteil, der zu SEINEM Modell gehört. Der Mehrertrag
+  wandert vollständig in den variablen Pool und damit zu den Anlagen, auf
+  denen die neuen Spielrechte tatsächlich genutzt werden. Beispiel Access auf
+  Access Plus: Der Heimatclub behält 61,47 Euro im Monat, die zusätzlichen
+  20,37 Euro gehen in den Pool. Zum Jahreswechsel wählt das Mitglied einen
+  Heimatclub, der das neue Modell führt.
+- **Nummernkreise** (Julius 06.08.): Einrichtungen und Personen getrennt.
+  Einrichtungen: `PP-0001` Partnerplatz, `PU-0001` Partnerunternehmen.
+  Personen: `MA-0001` Mitglied, `GP-0001` Person am Golfplatz, `UP-0001`
+  Person im Unternehmen, `FGSA/FGFI/FGSU-0001` Firmengolf-Team nach Rolle.
+  Die Mitgliedsnummer ist bewusst NICHT aus der Firmennummer abgeleitet, damit
+  sie bei Firmenwechsel oder privater Fortführung bestehen bleibt. Außer beim
+  Firmengolf-Team steht keine Rolle im Schlüssel, weil Rollen wechseln und
+  eine Person mehrere gleichzeitig haben kann.
+- **Reguläres Greenfee ist Pflichtangabe** je Angebot: Es dient der
+  Kommunikation (welcher Platz bietet welchen Nachlass) UND als vertragliche
+  Obergrenze je Nutzung für den Wenigspieler-Fall.
+- **Monatsauswertung je Platz**: Wer wann und wie oft gespielt hat, mit Modell,
+  Faktor und Firmengolf-Nummer; eigene Heimatmitglieder namentlich mit
+  Fixvergütung, Gastspieler mit Heimatclub. Dazu eine grafische Vorschau auf
+  den variablen Anteil des laufenden Halbjahres, ausdrücklich als Pool
+  gekennzeichnet, dessen genaue Ausschüttung erst mit der Halbjahresauswertung
+  feststeht. Kursteilnehmer in der Bindung werden als künftige Einnahme
+  ausgewiesen.
+- **Halbjahreslauf niemals automatisch**: Er macht einen erheblichen Teil der
+  Jahresvergütung aus. Vorher prüft eine Bereitschaftsansicht, ob je Platz
+  entweder eigene Check-ins oder die hochgeladene Meldung vorliegen. Der
+  Monatslauf läuft automatisch am 3. und erzeugt nur einen Entwurf.
+

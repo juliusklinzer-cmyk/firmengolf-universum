@@ -96,16 +96,18 @@ stehen, sonst gibt es Diskussionen mit Firmenkunden.
 am regulären Greenfee des jeweiligen Golfplatzes orientiert. Übersteigende
 Anteile werden dem Heimatclub zugeordnet."
 
-**Julius' Beschreibung des tatsächlichen Modells (06.08.2026):** Die variable
-Ausschüttung wird rein über die Faktorentabelle verteilt; mit Greenfee-Preisen
-wird nicht gerechnet. Die im System gepflegten Greenfees sind Sonderkonditionen
-für Nutzer OHNE Spielrecht auf dem jeweiligen Angebot, werden vor Ort im Club
-bezahlt und berühren unsere Zahlläufe nicht.
+**GEKLÄRT (Julius 06.08.2026):** Kein Widerspruch. Die laufende Verteilung
+erfolgt über die Faktorentabelle; der Deckel ist die Ausnahmeregel für den
+Wenigspieler. Beispiel: Spielt jemand in einem Halbjahr genau eine Runde auf
+einer fremden Anlage, bekäme diese Anlage sonst den kompletten variablen Anteil
+des Mitglieds — für eine einzige Runde. Der Deckel begrenzt das auf ein volles
+Greenfee, der Rest geht an den Heimatclub, genau wie bei der No-Show-Regel.
+Ohne diese Grenze wäre der Betrieb für den Heimatclub nicht wirtschaftlich.
 
-Das ist ein Widerspruch zum Vertragstext und muss vor dem Vertrag 2027
-entschieden werden. Umsetzung aktuell: Der Deckel greift dort, wo ein Greenfee
-hinterlegt ist; wo keines steht, zählt allein der Faktor. Kein Geld
-verschwindet in beiden Fällen.
+Umsetzung entspricht dem Vertrag. FOLGE FÜR DIE STAMMDATEN: Das reguläre
+Greenfee muss bei jedem 9- und 18-Loch-Angebot hinterlegt sein, sonst greift die
+Grenze nicht. Es wird ohnehin für die Angebotskommunikation gebraucht (welcher
+Platz bietet welchen Nachlass).
 
 ---
 
