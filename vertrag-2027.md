@@ -87,10 +87,12 @@ stehen, sonst gibt es Diskussionen mit Firmenkunden.
   Mitglied unterjährig auf ein höheres Modell wechselt.
 - Passt der Heimatclub nach einem Upgrade nicht mehr zum Modell, wählt das
   Mitglied zum Jahreswechsel einen neuen Heimatclub.
-- OFFEN, siehe F: Wie der Mehrertrag aus einem unterjährigen Upgrade verteilt
-  wird.
+- Der Mehrertrag aus einem unterjährigen Upgrade geht vollständig in den
+  variablen Pool (entschieden 06.08.2026). Der Heimatclub behält bis
+  Jahresende exakt den Fixanteil seines eigenen Modells; das zusätzliche Geld
+  fließt zu den Anlagen, auf denen die neuen Spielrechte genutzt werden.
 
-## F. Obergrenze je Nutzung (Anlage 2, Ziffer 5.2) — KLÄRUNGSBEDARF
+## F. Obergrenze je Nutzung (Anlage 2, Ziffer 5.2) — GEKLÄRT, Textnachschärfung
 
 **Ist im Vertrag:** "Je Nutzung gilt ein maximaler Auszahlungsbetrag, der sich
 am regulären Greenfee des jeweiligen Golfplatzes orientiert. Übersteigende
