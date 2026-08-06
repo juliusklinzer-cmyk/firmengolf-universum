@@ -35,3 +35,7 @@ das eigene Projekt hinaus hat.
 | `entscheidungen.md` | Datierte Grundsatz-Entscheidungen |
 | `kunden-updates.md` | Kundenfertige Update-Texte für Julius' Update-Mails (nach jedem kundenrelevanten Release ergänzen) |
 | `CHANGELOG.md` | Was ist neu — für Menschen und Sessions |
+
+- `steuern.md` — Umsatzsteuer auf Beiträge und Platzvergütung, Gutschriftverfahren,
+  E-Rechnungspflicht, Sachbezug. Für Gespräche mit dem Steuerberater und zur
+  Aufklärung von Firmenkunden und Partneranlagen.
