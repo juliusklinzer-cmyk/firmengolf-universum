@@ -291,3 +291,35 @@ Festgelegt (Julius: oberen Satz nehmen und aufrunden):
   entweder eigene Check-ins oder die hochgeladene Meldung vorliegen. Der
   Monatslauf läuft automatisch am 3. und erzeugt nur einen Entwurf.
 
+## 06.08.2026 (3. Nachtrag) — Umsatzsteuer, Ausfallrisiko, Lexoffice
+
+- **KORREKTUR der Vermittlungspauschale**: Die 15 Prozent berechnen sich auf den
+  NETTOUMSATZ, nicht auf den Bruttobeitrag. Die Beitragspreise sind
+  Endkundenpreise brutto: In 149,00 Euro stecken 23,79 Euro Umsatzsteuer, die
+  dem Finanzamt gehören und nicht in den Topf dürfen, der mit den Plätzen
+  geteilt wird. Richtig ist also 15 Prozent von 125,21 Euro gleich 18,78 Euro
+  statt der bisher gerechneten 22,35 Euro. Der Code hatte es falsch und ist
+  korrigiert; entsprechend sinkt der Betrag an die Plätze bei Access von 122,93
+  auf 102,71 Euro NETTO. Bei einem umsatzsteuerpflichtigen Platz kommt dessen
+  Umsatzsteuer obendrauf (Überweisung dann 122,22 Euro), bei einem
+  Kleinunternehmer nicht.
+- **Das Ausfallrisiko trägt Firmengolf**: Die Golfplätze bekommen ihre
+  Vergütung sofort und unabhängig davon, ob Unternehmen oder Mitglieder bezahlt
+  haben. Ausnahmen sind die Kursbindung (Auszahlung nach vier Monaten) und
+  später vereinbarte Zahlungsziele. Bleibt eine Forderung offen, wird erinnert,
+  gemahnt, gesperrt und zuletzt rechtlich vorgegangen — bei einer offenen
+  Firmenrechnung trifft die Sperre alle Mitglieder des Unternehmens, bei einem
+  offenen Eigenanteil nur die eine Person.
+- **Vergütung der Plätze läuft über Gutschriften** statt über Rechnungen der
+  Plätze (Abrechnungsgutschrift nach Paragraf 14 Absatz 2 UStG). Voraussetzung
+  ist eine vorherige Vereinbarung im Kooperationsvertrag, siehe
+  `vertrag-2027.md`. Steuerdaten der Plätze (USt-IdNr, Steuernummer,
+  Kleinunternehmer-Kennzeichen) sind im System vorbereitet.
+- **Lexoffice-Anbindung zurückgestellt**: Die Schnittstelle gibt es erst im
+  XL-Tarif (32,90 Euro im Monat), Firmengolf hat L (21,90 Euro). Bei einer
+  Handvoll Firmenrechnungen im Monat lohnt der Aufpreis nicht. Ersatz ist eine
+  Abrechnungsliste je Unternehmen im Admin, aus der die Rechnungen von Hand
+  angelegt werden. Wieder aufgreifen ab etwa 20 Firmenkunden oder spätestens
+  zur E-Rechnungspflicht (Ausstellen ab 2028, für kleine Unternehmen bis
+  800.000 Euro Umsatz Übergangsfrist bis Ende 2027).
+
