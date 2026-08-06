@@ -373,3 +373,32 @@ zahlungsrelevanten Faktoren unserer Mitglieder an Anlagen ohne eigenes System
   Profilbild (folgt), QR-Code und die heutige Startzeit mit Platz, Uhrzeit
   und Personenzahl.
 
+## 07.08.2026 — Sperrzeiträume, Zeitfenster-Regel, Mitspieler
+
+- **Sperrzeiträume je Platz**: Owner, Manager und Sachbearbeiter sperren
+  geplante Zeiträume (Turnier, Veranstaltung, Witterung, Platzschaden, Umbau)
+  mit Von, Bis und Notiz. Mitglieder sehen Grund und Zeitraum in der App und
+  können darin keine Startzeiten buchen. Aufheben statt löschen, damit
+  nachvollziehbar bleibt, was wann galt. Ergänzt die sofortige
+  Betriebs-Sperre, ersetzt sie nicht.
+- **Der Marshal-Scan ist nicht der Regelfall** (Julius: etwa jede zehnte Runde
+  begegnet einem Marshal). Deshalb bestätigt der EIGENE QR-Scan am Abschlag
+  eine gebuchte Startzeit genauso: Buchung wird wahrgenommen, Faktor gewertet.
+  Marshal-Scan bleibt der zweite Weg, verfallene Buchungen ohne jeden Scan
+  speisen die Auffälligkeiten-Liste.
+- **Zeitfenster-Regel je Leistung**: Eine laufende Runde blockiert weitere
+  Startzeiten derselben Person an ALLEN Plätzen — Kurzplatz eine Stunde,
+  9 Loch anderthalb, 18 Loch dreieinhalb ab Startzeit. Zeiten nach Ablauf des
+  Fensters sind vorab buchbar. Der Range-Check-in gilt ohnehin den ganzen Tag
+  je Platz (ein Check-in je Leistung, Platz und Tag).
+- **Mitspieler-Spiegelung**: Wer bei einer Buchung Kollegen aus dem EIGENEN
+  Unternehmen über deren Firmengolf-Nummer mit einbucht, erzeugt bei jedem
+  Kollegen eine gespiegelte Startzeit in dessen App; die Personen zählen nur
+  einmal in der Kapazität, jeder Kollege wird beim Check-in einzeln erfasst.
+  Absage des Buchers nimmt die Spiegel mit. Gäste ohne Firmengolf zählen nur
+  in der Personenzahl.
+- **Zur Einordnung, nicht in der App abzubilden** (Julius): Clubmitglieder des
+  Platzes spielen nach dessen eigenen Regeln unbegrenzt und kostenlos,
+  Gastspieler ohne Firmengolf zahlen das volle Greenfee und erhalten nicht
+  die Firmengolf-Konditionen. Das regelt der Platz selbst.
+
