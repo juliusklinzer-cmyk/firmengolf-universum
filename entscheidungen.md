@@ -323,3 +323,19 @@ Festgelegt (Julius: oberen Satz nehmen und aufrunden):
   zur E-Rechnungspflicht (Ausstellen ab 2028, für kleine Unternehmen bis
   800.000 Euro Umsatz Übergangsfrist bis Ende 2027).
 
+
+## Platzreife-Zeitraum: nur der Kursplatz (Julius, 06.08.2026)
+
+Während ein Platzreifekurs läuft (Wochen bis Monate), spielt und bucht das
+Mitglied ausschließlich am durchführenden Golfplatz: Driving Range und
+Kurzplatz dort unbegrenzt und ohne Punkte, das Punktekonto pausiert. Andere
+Partnerplätze sind im Kurszeitraum für Buchung und Check-in gesperrt, auch
+ein Selbstzahler-Weg wird dort nicht angeboten. Das ersetzt die Regel aus dem
+Kursbindungs-Modell vom 04.08., nach der fremde Plätze im Kurszeitraum als
+Selbstzahler nutzbar gewesen wären. Stöbern, Profil und Mitgliedschaft bleiben
+in der App uneingeschränkt; die App kommuniziert die Sperre freundlich.
+Bis zum Kursstart gilt weiter der volle Zugriff mit Punkten. Der Fortschritt
+der Kursmodule ergibt sich automatisch aus deren festen Terminen (kein
+manuelles Abhaken); Terminänderungen durch Golflehrer oder Platz gehen als
+Push-Nachricht an die Teilnehmer. Harte Durchsetzung der Sperre serverseitig
+(offen, siehe App-Repo docs/backend-aufgaben-frontend.md Punkt 10).

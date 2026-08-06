@@ -135,3 +135,8 @@ Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 - D+-Fixvergütung: Standard 15 Euro je Mitglied und Monat, je Platz pflegbar.
 - Bestandsänderungen gebaut: Modellwechsel, Heimatclub-Wechsel, F5-Austritt,
   F6-Koop-Ende, administratives Beenden.
+
+06.08.2026: Platzreife-Zeitraum beschlossen (Julius): im Kurszeitraum nur der
+durchführende Platz (Range/Kurzplatz unbegrenzt, Punktekonto pausiert), fremde
+Plätze gesperrt statt Selbstzahler; Modul-Fortschritt automatisch nach festen
+Terminen, Terminänderungen per Push. Siehe entscheidungen.md.
