@@ -442,3 +442,14 @@ zahlungsrelevanten Faktoren unserer Mitglieder an Anlagen ohne eigenes System
   Kontakt, Öffnungszeiten, Ausstattung und "Gut zu wissen" selbst im
   Golfplatzportal; wirksam erst nach Firmengolf-Freigabe (Queue). Adresse,
   Name, Bilder und Steuerdaten bleiben bei Firmengolf.
+
+## Punkte-Nachkauf zurückgestellt (Julius, 07.08.2026)
+
+Idee: Mitglieder können Punkte über die Plattform nachkaufen (Stripe, übliche
+Zahlungsmittel); zugekaufte Punkte verfallen nicht. Entscheidung: bewusst
+zurückgestellt bis nach dem Launch, frühestens wenn erste zahlende Kunden
+tatsächlich in die Situation kommen, dass ihnen Punkte fehlen. Bis dahin gilt
+das bestehende Ventil Selbstzahler im Clubhaus. Vor einer Umsetzung zu klären:
+Paketpreis über dem Modell-Punktwert (keine Kannibalisierung der Upgrades),
+zweiter Punkte-Topf ohne Verfall mit Einlöse-Reihenfolge (Monatspunkte zuerst),
+Settlement-Kennzeichnung und Umsatzsteuer (Mehrzweck-Guthaben, USt bei Einlösung).
