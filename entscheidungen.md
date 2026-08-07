@@ -453,3 +453,21 @@ das bestehende Ventil Selbstzahler im Clubhaus. Vor einer Umsetzung zu klären:
 Paketpreis über dem Modell-Punktwert (keine Kannibalisierung der Upgrades),
 zweiter Punkte-Topf ohne Verfall mit Einlöse-Reihenfolge (Monatspunkte zuerst),
 Settlement-Kennzeichnung und Umsatzsteuer (Mehrzweck-Guthaben, USt bei Einlösung).
+
+## 07.08.2026 — Nutzerverwaltung im Admin, Impersonation gestrichen
+
+- **"Als Nutzer anmelden" ist endgültig verworfen** (Julius) und wird nicht
+  mehr nachgefasst. Support-Fälle laufen über die neue Detailsicht je Person.
+- **Vier Nutzergruppen statt einer Tabelle**: Mitglieder, Unternehmens-Team
+  (HR-Rollen), Platz-Team, Firmengolf-Team; jede Gruppe zeigt nur die für sie
+  sinnvollen Spalten. Punkte sieht man nur bei Discover und Discover +, die
+  Vollmodelle zeigen die Faktorsumme des Halbjahres.
+- **Datenschutz-Leitplanken bestätigt**: Arbeitgeber sehen NIE Einzelnutzungen
+  (nur Monatsaggregate ab Mindestgruppengröße); die Einzel-Spielhistorie im
+  Admin, einschließlich der DSGVO-Vollauskunft, ist dem Super-Admin
+  vorbehalten, weil zahlungsrelevant. Jede Einzelsicht wird auditiert.
+- **Service-Standards**: Passwörter setzt immer der Nutzer selbst (Admin
+  stößt nur die Code-Mail an); eine E-Mail-Änderung durch den Support macht
+  die neue Adresse unverifiziert und informiert die alte Adresse per
+  Sicherheits-Mail; Kündigungen im Auftrag folgen exakt den Regeln der
+  Selbstkündigung; Sperren ist Support-Arbeit mit Pflicht-Begründung.
