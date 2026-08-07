@@ -428,3 +428,17 @@ zahlungsrelevanten Faktoren unserer Mitglieder an Anlagen ohne eigenes System
 - **Preis und Mindestlaufzeit sind Vertragswerte** und im Formular des
   Platzes sichtbar, aber gesperrt. Das Kurs-Badge (z.B. "Beliebt") vergibt
   ausschließlich Firmengolf, nicht der Platz.
+
+## 07.08.2026 — Kurs-Varianten und Platzprofil-Selbstpflege (Julius, Morgenrunde)
+
+- **Kurs-Varianten**: Ein Golfplatz kann denselben Kurstyp in mehreren
+  Ausbaustufen anbieten, z.B. Platzreife Standard 200 Euro (6 Trainerstunden,
+  Platzbegehung, Prüfung, Theorieunterlagen) und XL 400 Euro (12 Stunden und
+  alles Weitere), ebenso mehrere Grundlagenkurs-Varianten. Die Varianten samt
+  Preisen legt Firmengolf im Admin an (Vertragswerte); der Platz wählt beim
+  Kurs-Anlegen nur aus. Erwartung: Die meisten Plätze nutzen je einen
+  Standardkurs. Buchungen frieren die Konditionen der gewählten Variante ein.
+- **Platzprofil-Selbstpflege**: Owner und Manager pflegen Beschreibung,
+  Kontakt, Öffnungszeiten, Ausstattung und "Gut zu wissen" selbst im
+  Golfplatzportal; wirksam erst nach Firmengolf-Freigabe (Queue). Adresse,
+  Name, Bilder und Steuerdaten bleiben bei Firmengolf.
