@@ -27,6 +27,16 @@ Mehrtägige Offsites mit Übernachtung planen wir weiterhin gern, ab sofort geb�
 Im Golfplatzportal könnt ihr ab sofort eigene Workshop-Events anlegen: Konferenzraum,
 Gastronomie und Golf-Grundlagenkurs als Tagespaket für Firmenteams.
 
+**[Firmen] Neu: das Wertschätzungspaket, Mitarbeiter mit Golf auszeichnen.**
+Belohnt besondere Leistungen mit einem Erlebnis statt einem Bonus: Das Paket
+Anerkennung (59 Euro pro Person) enthält einen Golf-Grundlagenkurs mit persönlichem
+Empfang, Leih-Equipment und einem Rabatt auf den Platzreifekurs. Das Paket Platzreife
+Excellence (450 Euro netto pro Person) ist die persönliche, namentliche Einladung zu
+einem mehrtägigen Platzreifekurs als exklusives Netzwerk-Event, inklusive Turnier,
+Theorieprüfung und vergünstigter Jahresmitgliedschaft danach. Bestellt in zwei
+Minuten auf firmengolf-events.de/wertschaetzung, bezahlt auf Rechnung, zugestellt
+innerhalb von 7 Werktagen im Namen eures Unternehmens.
+
 ## August 2026, Woche 1 (Stand 05.08.)
 
 **[Partner] Ihre Vergütung wird im Portal transparent.**
