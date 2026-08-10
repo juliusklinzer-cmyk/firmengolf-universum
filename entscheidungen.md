@@ -471,3 +471,25 @@ Settlement-Kennzeichnung und Umsatzsteuer (Mehrzweck-Guthaben, USt bei Einlösun
   die neue Adresse unverifiziert und informiert die alte Adresse per
   Sicherheits-Mail; Kündigungen im Auftrag folgen exakt den Regeln der
   Selbstkündigung; Sperren ist Support-Arbeit mit Pflicht-Begründung.
+
+## 10.08.2026 — Auszahlungslogik: drei Grundsatzentscheidungen (Julius)
+
+- **Der Heimatclub des laufenden Jahres bekommt die Vergütung.** Ein Wechsel
+  gilt offiziell ab 1. Januar; rückwirkend darf er nie Geld verschieben.
+  Technisch wird der Heimatclub deshalb je Abrechnungsmonat eingefroren.
+- **Der Marshal-Scan ist eine Kontrolle, niemals ein Check-in.** Er zeigt dem
+  Marshal nur, ob das Mitglied gültig und heute eingecheckt ist. Eingecheckt
+  wird ausschließlich vom Mitglied selbst per QR am Abschlag oder über die
+  CSV-Meldung des Clubsystems. Daraus folgt: EINE Runde ist EINE Erfassung
+  je Leistung, Platz und Tag, egal über welchen Weg sie gemeldet wird.
+- **Upgrade mit sofortiger Heimatplatz-Wahl fürs Folgejahr**: Wer z.B. auf
+  Access Plus upgradet, wählt direkt den Heimatplatz für das nächste Jahr.
+  Der bisherige Club bleibt bis 31.12. zugeordnet (und vergütet, gedeckelt
+  nach seinem eigenen Modell); der neue Platz wird sofort informiert (Mail
+  plus Liste "Kommende Heimatclub-Mitglieder" im Golfplatzportal) und kann
+  die DGV-Meldung planen.
+- **Greenfee-Preise sind Kundenkommunikation**, keine Abrechnungsgrundlage —
+  mit einer Ausnahme: Als vertragliche Obergrenze je Auswärtsrunde im
+  Wenigspieler-Schutz (Anlage 2 Ziffer 5.2) fließt das reguläre Greenfee in
+  die Pool-Deckelung ein. Das Einfrieren dieses Werts am Check-in ist als
+  Absicherung offen (Entscheidung Julius ausstehend).
