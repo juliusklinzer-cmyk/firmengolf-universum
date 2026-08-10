@@ -11,6 +11,22 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 2 (Stand 10.08.)
+
+**[Firmen] Neues Format: Workshop auf dem Golfplatz.**
+Der Golfplatz wird zur Workshop-Location: Konferenzraum im Clubhaus, Begrüßung mit
+Kaffee und Kuchen, Mittagsbuffet inklusive Getränken auf der Clubterrasse und zum
+Ausklang ein Golf-Grundlagenkurs mit Golflehrer, ganz ohne Vorkenntnisse. Buchbar ab
+190 Euro pro Person, in acht Regionen von München bis Hamburg sofort anfragbar.
+
+**[Firmen] Offsites und Incentives laufen jetzt über die individuelle Planung.**
+Mehrtägige Offsites mit Übernachtung planen wir weiterhin gern, ab sofort gebündelt
+über die individuelle Event-Anfrage statt als Standardformat in der Eventliste.
+
+**[Partner] Workshop als neue Eventart im Portal.**
+Im Golfplatzportal könnt ihr ab sofort eigene Workshop-Events anlegen: Konferenzraum,
+Gastronomie und Golf-Grundlagenkurs als Tagespaket für Firmenteams.
+
 ## August 2026, Woche 1 (Stand 05.08.)
 
 **[Partner] Ihre Vergütung wird im Portal transparent.**
