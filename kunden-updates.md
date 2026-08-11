@@ -11,7 +11,25 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
-## August 2026, Woche 2 (Stand 10.08.)
+## August 2026, Woche 2 (Stand 11.08.)
+
+**[Firmen] Anfragen in 30 Sekunden, mit persönlicher Rückmeldung.**
+Das Anfrage-Formular ist komplett neu: Wählt euren Anlass per Kachel, gebt die
+Eckdaten an und schickt die Schnellanfrage in einer halben Minute ab. Nach dem
+Absenden seht ihr sofort, wer sich persönlich um eure Anfrage kümmert, und wir
+melden uns innerhalb von 24 Stunden. Jeder Anfrage-Button auf der Seite führt
+jetzt direkt ins Formular, ohne Umwege.
+
+**[Firmen] Eigene Seiten für jedes Event-Format.**
+Teamevent, After-Work Golf, Workshop, Platzreife, Firmenturnier, Kundenevent und
+Incentive haben jetzt eigene Seiten mit allem auf einen Blick: Beispielablauf des
+Tages, Preise, passende Events in eurer Region und häufige Fragen. Für München und
+Hamburg zusätzlich mit eigenen Stadt-Seiten je Format.
+
+**[Alle] Unser Magazin mit Gesichtern und frischem Auftritt.**
+Der Blog zeigt jetzt Top-Story, Themenfilter und die Autorinnen und Autoren hinter
+den Beiträgen. Reinschauen lohnt sich: praktische Leitfäden rund um Firmenevents
+auf dem Golfplatz.
 
 **[Firmen] Neues Format: Workshop auf dem Golfplatz.**
 Der Golfplatz wird zur Workshop-Location: Konferenzraum im Clubhaus, Begrüßung mit
