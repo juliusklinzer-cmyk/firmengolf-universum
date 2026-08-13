@@ -27,9 +27,8 @@ Quelle: `Firmengolf_Mitgliedschaftslogik.docx` (Julius) · technisch umgesetzt i
 
 - Discover 49,90 €/Mon · **Discover+ 59,90 €/Mon (10 € Eigenanteil)** ·
   Access 149 €/Mon · Access+ 199 €/Mon. AG-Anteil max. 49,90 €.
-- ⚠️ **Website zeigt für Discover+ noch 49 €** (`fg_models()` in
-  `inc/partners.php`) — auf 59,90 € korrigieren (Tier-Karten, Vergleichstabelle,
-  FAQ prüfen).
+- ✅ Website-Korrektur Discover+ auf 59,90 € ist erledigt (12.08.2026, Commit
+  `66793c3` im Website-Repo, live deployt).
 - D+-Fixum an den Heimatclub: 10–20 €/Monat je aktivem D+-Mitglied, vertraglich
   individuell je Club-Satzung.
 - Verbindliche Regel-Referenz für die App:
