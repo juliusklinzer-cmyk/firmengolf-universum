@@ -493,3 +493,15 @@ Settlement-Kennzeichnung und Umsatzsteuer (Mehrzweck-Guthaben, USt bei Einlösun
   Wenigspieler-Schutz (Anlage 2 Ziffer 5.2) fließt das reguläre Greenfee in
   die Pool-Deckelung ein. Das Einfrieren dieses Werts am Check-in ist als
   Absicherung offen (Entscheidung Julius ausstehend).
+
+## Zuschuss- und Preis-Kommunikation Website (Julius, 13.08.2026)
+
+- **Der Arbeitgeber-Zuschuss wird überall mit 49,90 € kommuniziert**, nicht mit
+  „bis zu 50 €". Begründung: Es soll genau der Betrag stehen, der am Ende auch
+  verwendet wird (AG-Anteil max. 49,90 €, Rundungssicherheit Finanzamt). Die
+  50-€-Sachbezugsfreigrenze bleibt internes Steuerwissen, keine Werbezahl.
+- **Discover kostet auf der Website 49,90 €/Mon** (vorher stand dort 49 €;
+  keine Marketing-Rundung). Damit zeigen alle vier Modelle exakt die
+  Preisliste vom 30.07.2026.
+- Umsetzung inkl. Eigenanteil-Rechner (rechnet jetzt mit Dezimalbeträgen,
+  Discover+ bei vollem Zuschuss = 10 € Eigenanteil) im Website-Audit-Fix 13.08.

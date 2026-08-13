@@ -68,8 +68,9 @@ Stand: Juli 2026 — Basis-Mechanik live auf der Website, Details entstehen mit 
 
 - [ ] Punktpreise pro Leistung final je Club bestätigen (aktuelle Werte = Vertragsstand)
 - [x] **Begriff entschieden (31.07.2026): „Grundlagenkurs"** ist der offizielle
-  Name (statt „Schnupperkurs"). App nutzt ihn ab sofort; Website-Texte bei
-  nächster Gelegenheit nachziehen (Kursnamen auf Platz-Detailseiten, FAQ).
+  Name (statt „Schnupperkurs"). App nutzt ihn ab sofort; Website ist am
+  13.08.2026 nachgezogen (alle Firmengolf-eigenen Formulierungen; Club-Kurstitel
+  wie „Kaden Schnupperkurs" bleiben als Eigennamen).
 
 > Änderungen am Punktesystem hier dokumentieren + CHANGELOG-Eintrag — betrifft
 > App (Backend/UI), Website (Platz-Detailseiten, FAQ) und ggf. Events (Pakete).

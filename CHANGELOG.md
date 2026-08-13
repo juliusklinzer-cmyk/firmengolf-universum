@@ -2,6 +2,16 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-08-13
+
+- **Zuschuss-Kommunikation: überall 49,90 €** statt „bis zu 50 €", Discover
+  49,90 € auch auf der Website (Details `entscheidungen.md`) — betrifft
+  Website (umgesetzt), App-Texte und künftige Events-Kommunikation.
+- Website-Audit umgesetzt: Modell-Farben nachgezogen, „Grundlagenkurs"
+  sitewide, Gedankenstriche komplett raus (Regel vom 01.08. jetzt überall).
+- Schwäbisch-Hall-Kurskonditionen als Vereinheitlichungspunkt auf der
+  `vertrag-2027.md`-Liste.
+
 ## 2026-08-07
 
 - **Kurse als vollwertiges Produkt** (Details `entscheidungen.md`): Der Platz

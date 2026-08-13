@@ -121,3 +121,8 @@ Platz bietet welchen Nachlass).
   eigenes System), Weiterleitung ins eigene System des Clubs (Regelfall, dazu
   die Dokumentationshilfe für die halbjährliche Meldung), später Anbindung an
   Albatros, PC Caddie und Club in One.
+
+- **Schwäbisch Hall, Kurs-Konditionen**: Die Absprache „12 Monate Laufzeit oder
+  499 € Eigenanteil" (Ingo, 16.07.2026) kollidiert mit dem Kursbindungs-Modell
+  vom 04.08.2026 (max. 4 Monate Bindung, Zuschuss-Deckel ~200 €). 2026 gilt die
+  Absprache weiter (Verträge werden nicht angepasst); für 2027 vereinheitlichen.
