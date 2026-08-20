@@ -43,6 +43,19 @@ Stand: 19.07.2026. Zugangsdaten liegen NICHT hier, sondern je Projekt
 - **GA4**: Website `G-NBZH1PR8M2` (Consent-gated via Klaro) · Events eigene Property.
 - **Search Console**: Domain-Properties für firmengolf.app + firmengolf-events.de.
 
+## Meta (Werbung)
+
+- **Meta Pixel „FGE Web"**: `1378606913654515` auf firmengolf-events.de
+  (seit 1.9.126, 20.08.2026). Klaro-Dienst `meta-pixel` in der Kategorie
+  Marketing, lädt nur nach Einwilligung; bewusst ohne noscript-Fallback und
+  ohne automatischen erweiterten Abgleich (autoConfig false). Events nur
+  PageView (nach Einwilligung, alle Seiten) und Lead (abgesendete
+  Event-Anfrage, derselbe Auslöser wie die Google-Ads-Conversion).
+- Lead trägt eine serverseitige event_id (UUID je Anfrage, Meta
+  `_fge_meta_event_id` am Request): Pflicht für die Deduplizierung, wenn die
+  **Conversions API** später an dieselbe Datenquelle sendet (geplant, noch
+  nicht gebaut).
+
 ## Monitoring
 
 - UptimeRobot: firmengolf.app + firmengolf-events.de.
