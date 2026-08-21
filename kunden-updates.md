@@ -11,6 +11,29 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 3 (Stand 21.08.)
+
+**[Firmen] Die ganze Seite in neuem Gewand, gebaut fürs schnelle Anfragen.**
+Startseite, Eventliste, Stadt- und Formatseiten, Kontakt, Blog und Über uns sind
+rundum überarbeitet: klarere Wege zum passenden Event, neue Eventkarten mit allen
+Eckdaten auf einen Blick und die Schnellanfrage öffnet sich jetzt überall direkt
+auf der Seite, ohne Umweg.
+
+**[Firmen] Golf-Events in über 30 Städten, mit interaktiver Golfplatz-Karte.**
+Für jede größere Stadt gibt es jetzt eine eigene Seite mit Events aus der Region,
+einer interaktiven Karte aller Golfplätze im Umkreis und Antworten auf die
+häufigsten Fragen. Von München bis Kiel, im Footer jeder Seite verlinkt.
+
+**[Firmen] Kontakt ohne Umwege.**
+Die Kontaktseite zeigt eure drei Direktwege (Anruf, WhatsApp, E-Mail) sofort oben,
+daneben das Formular, den Rückruf-Service und die Terminbuchung. Wer vorbeikommen
+will, findet Adresse und Karte jetzt prominent auf der Seite.
+
+**[Alle] Das Magazin liest sich jetzt wie ein Magazin.**
+Große Top-Story, zwei aktuelle Beiträge und alle weiteren Artikel als übersichtliche
+Liste. In den Artikeln zeigen ein Lesefortschritts-Balken und eine Teilen-Funktion
+(Link, LinkedIn, WhatsApp) den neuen Stand.
+
 ## August 2026, Woche 2 (Stand 11.08.)
 
 **[Firmen] Anfragen in 30 Sekunden, mit persönlicher Rückmeldung.**
