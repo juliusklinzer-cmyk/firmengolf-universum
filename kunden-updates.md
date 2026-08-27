@@ -14,10 +14,11 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 ## August 2026, Woche 4 (Stand 27.08.)
 
 **[Firmen] Mehr Bildschirm fürs Wesentliche auf dem Handy.**
-Die Navigation sitzt auf dem Smartphone jetzt als schwebende Leiste am unteren
-Bildschirmrand, direkt am Daumen. Beim Lesen und Stöbern zieht sie sich dezent
-zurück und gibt den ganzen Bildschirm frei, ein kurzes Hochwischen holt sie
-zurück. Die Anfrage ist damit von jeder Seite aus mit einem Tipp erreichbar.
+Die mobile Ansicht ist aufgeräumt: Keine feststehende Leiste nimmt mehr Platz
+weg, die Inhalte bekommen den ganzen Bildschirm. Das Menü öffnet sich über
+ein Symbol oben rechts, daneben sitzt der direkte Anfrage-Knopf. Und alle
+Anfrage- und Bestellformulare öffnen auf dem Smartphone jetzt als vollwertige
+Vollbild-Ansicht statt als kleines Fenster.
 
 ---
 
