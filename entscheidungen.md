@@ -1,5 +1,15 @@
 # Grundsatz-Entscheidungen (datiert, neueste oben)
 
+- **2026-08-27** — **Preisglättung Events: Endziffer 4 oder 9** (Julius,
+  Entscheidung 2 in firmengolf-events/docs/onboarding-golflehrer-indoor.md).
+  Kundenpreise auf firmengolf-events.de enden nicht mehr auf glatte 5er/50er
+  (65/70/650 wirkte gesetzt statt kalkuliert), sondern werden im gleichen
+  Raster auf Endziffer 4 oder 9 AUFgerundet (64/69/649/1.049). Partner
+  erhält weiter exakt sein Netto, Differenz bleibt Firmengolf-Marge,
+  Provision bleibt 20 Prozent (auch auf Trainerhonorare und Simulatoren).
+  Gilt NUR für firmengolf-events.de, nicht für firmengolf.app. Live seit
+  1.9.154 (28.08.).
+
 - **2026-08-03** — **Kein Mini-Pilot** (Julius). Der früher geplante
   geschlossene Mini-Pilot (1 Firma, ≤ 20 Mitglieder, Wo. 10-14) ist
   GESTRICHEN. Stattdessen: Das Design wird vollständig und bis ins Detail
