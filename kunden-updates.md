@@ -11,6 +11,20 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 4, drittes Update (Stand 28.08.)
+
+**[Partner] Firmengolf öffnet sich für Golflehrer und Indoor-Golfanlagen.**
+Unsere Partnerseite spricht jetzt drei Gruppen an: Golfplätze, Golflehrer und
+Betreiber von Indoor-Golfanlagen. Alle drei legen eigene Pakete an, so kreativ
+sie wollen, vom Schlägerbau-Workshop bis zum Platzreife-Wochenende, unbegrenzt
+viele Angebote, jederzeit anfragbar. Termine werden nie über euren Kopf hinweg
+vergeben: Jede Anfrage kommt mit Wunschterminen, alle Beteiligten (auch externe
+Dienstleister) können als Ansprechpartner hinterlegt werden und geben pro
+Anfrage nur ihren Teil frei. Gerade für Indoor-Anlagen spannend: Firmenkunden
+kommen genau in den Zeiten, in denen Boxen sonst frei sind.
+
+---
+
 ## August 2026, Woche 4, zweites Update (Stand 27.08. abends)
 
 **[Firmen] Events in eurer Nähe, mit einem Fingertipp.**
