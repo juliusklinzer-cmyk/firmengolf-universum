@@ -11,6 +11,34 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 4, zweites Update (Stand 27.08. abends)
+
+**[Firmen] Events in eurer Nähe, mit einem Fingertipp.**
+Die Eventliste fragt einmalig, ob sie euren Standort nutzen darf. Wenn ja, seht
+ihr sofort nur Events auf gut erreichbaren Golfplätzen, sortiert nach Entfernung
+und mit Kilometerangabe auf jeder Karte. Wer schon einmal zugestimmt hat, landet
+beim nächsten Besuch direkt in seiner Umgebung.
+
+**[Firmen] Aufgeräumte Eventsuche.**
+Statt des großen Suchblocks startet die Liste jetzt direkt mit den Eventarten
+und den Angeboten. Alles Weitere (Ort, Gruppengröße, Sortierung) steckt in einem
+schlanken Filter, der auf Handy und Desktop gleich funktioniert. Neu dabei: der
+Reiter Indoor Golf.
+
+**[Firmen] Die Anfrage fühlt sich jetzt an wie bei den Großen.**
+Beide Anfragewege sind rundum erneuert: hell, aufgeräumt, mit Fortschrittsbalken,
+klaren Schritten und einem Hilfe-Knopf mit direktem Draht zu Julius (Anruf oder
+Mail). Das Budget wird jetzt pro Person abgefragt, die Anlässe heißen klar nach
+Golf (vom Golf-Teamevent bis zum Nachtgolf-Event), und auf dem Handy passt jeder
+Schritt ohne Scrollen auf den Bildschirm.
+
+**[Firmen] Startseite auf dem Handy neu sortiert.**
+Kompakte Vorteils-Kacheln statt langer Texte, wischbare Reihen für Schritte,
+Eventarten und Blogartikel, und jede Eventart führt euch direkt zu den passenden
+Angeboten oder in die Schnellanfrage.
+
+---
+
 ## August 2026, Woche 4 (Stand 27.08.)
 
 **[Firmen] Mehr Bildschirm fürs Wesentliche auf dem Handy.**
