@@ -11,6 +11,16 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 4 (Stand 27.08.)
+
+**[Firmen] Mehr Bildschirm fürs Wesentliche auf dem Handy.**
+Die Navigation sitzt auf dem Smartphone jetzt als schwebende Leiste am unteren
+Bildschirmrand, direkt am Daumen. Beim Lesen und Stöbern zieht sie sich dezent
+zurück und gibt den ganzen Bildschirm frei, ein kurzes Hochwischen holt sie
+zurück. Die Anfrage ist damit von jeder Seite aus mit einem Tipp erreichbar.
+
+---
+
 ## August 2026, Woche 3 (Stand 21.08.)
 
 **[Firmen] Die ganze Seite in neuem Gewand, gebaut fürs schnelle Anfragen.**
