@@ -11,6 +11,20 @@ Golfplätze, `[Firmen]` für Firmenkunden, `[Alle]`. Keine Gedankenstriche in de
 
 ---
 
+## August 2026, Woche 4, viertes Update (Stand 28.08. abends)
+
+**[Partner] Die Anmeldung für Golflehrer und Indoor-Anlagen ist offen.**
+Ab sofort könnt ihr euch als Golflehrer oder als Indoor-Golfanlage direkt
+bei Firmengolf anmelden, mit einem eigenen, kurzen Anmelde-Assistenten für
+jede Gruppe. Golflehrer legen in rund zehn Minuten ihr Profil und ihre
+Anlage an (die Google-Suche füllt Adresse und Karte automatisch),
+Indoor-Anlagen erfassen Boxen, Technik und Räume. Abrechnungsdaten fragen
+wir nicht ab: Ihr stellt uns nach dem Event einfach eine Rechnung.
+Golflehrer bekommen zudem eine eigene öffentliche Visitenkarte mit Foto,
+Qualifikation und ihren buchbaren Events.
+
+---
+
 ## August 2026, Woche 4, drittes Update (Stand 28.08.)
 
 **[Partner] Firmengolf öffnet sich für Golflehrer und Indoor-Golfanlagen.**
