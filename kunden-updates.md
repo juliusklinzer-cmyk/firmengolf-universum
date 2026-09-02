@@ -268,3 +268,13 @@ Karte: alle Plätze in eurer Nähe, Firmengolf-Partner klar markiert.
 **[Firmen] Platzreife-Kurse für Teams als eigenes Format.**
 Aus dem Schnupperkurs-Format sind vollwertige Platzreife-Kurse geworden: über mehrere
 Tage gemeinsam zur Platzreife, als Teamerlebnis mit bleibendem Ergebnis.
+
+## September 2026, Woche 1 (Stand 02.09.)
+
+**[Partner] Preise ganz einfach so eingeben, wie ihr sie kennt.**
+Ihr hinterlegt eure Angebote jetzt mit eurem gewohnten Endkundenpreis (brutto),
+genau wie ihr ihn auch einem normalen Gast berechnet. Firmengolf rechnet den Rest:
+euer Netto, unsere Vermittlung oben drauf, und dem Firmenkunden zeigen wir netto.
+Euren hinterlegten Betrag bekommt ihr nach dem Event exakt ausgezahlt. In den
+Kontaktdaten wählt ihr einmal euren Steuerstatus (regelbesteuert oder
+Kleinunternehmer nach §19), damit die Umrechnung stimmt.
