@@ -278,3 +278,15 @@ euer Netto, unsere Vermittlung oben drauf, und dem Firmenkunden zeigen wir netto
 Euren hinterlegten Betrag bekommt ihr nach dem Event exakt ausgezahlt. In den
 Kontaktdaten wählt ihr einmal euren Steuerstatus (regelbesteuert oder
 Kleinunternehmer nach §19), damit die Umrechnung stimmt.
+
+**[Firmen] Weihnachtsfeier mit Golf, jetzt buchbar.**
+Neues Eventformat für die Saison: Glühwein-Empfang, Golf-Challenge mit Betreuung
+und Siegerehrung, danach das gemeinsame Weihnachtsessen. Indoor am Simulator oder
+auf der Anlage, in 30 Städten ab 119 € pro Person. Beliebte Dezember-Termine am
+besten bis Oktober anfragen.
+
+**[Partner] Gesundheitsförderung sichtbar auf der Golflehrer-Visitenkarte.**
+Golflehrer mit Zertifizierung für gesundheitsfördernde Maßnahmen (§ 20 SGB V)
+bekommen einen eigenen Block auf ihrer Visitenkarte: Unternehmen sehen sofort,
+dass sich der Kurs auch über das Gesundheitsbudget finanzieren lässt, und
+zertifizierte Lehrer werden bei Gesundheitstag-Anfragen bevorzugt vorgeschlagen.
