@@ -290,3 +290,9 @@ Golflehrer mit Zertifizierung für gesundheitsfördernde Maßnahmen (§ 20 SGB V
 bekommen einen eigenen Block auf ihrer Visitenkarte: Unternehmen sehen sofort,
 dass sich der Kurs auch über das Gesundheitsbudget finanzieren lässt, und
 zertifizierte Lehrer werden bei Gesundheitstag-Anfragen bevorzugt vorgeschlagen.
+
+**[Firmen] Neue Bildwelt für alle Eventformate.**
+Über 400 neue Fotos auf der Seite: echte Firmenrunden, Platzreife-Kurse,
+After-Work-Abende, Turniere und Indoor-Golf. Jedes Beispiel-Event hat jetzt sein
+eigenes Titelbild und eine Galerie aus seiner Kategorie, ohne Wiederholungen. Die
+Weihnachtsfeier-Seite zeigt alle acht Indoor-Formate mit eigenem Motiv.
