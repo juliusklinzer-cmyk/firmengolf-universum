@@ -296,3 +296,22 @@ zertifizierte Lehrer werden bei Gesundheitstag-Anfragen bevorzugt vorgeschlagen.
 After-Work-Abende, Turniere und Indoor-Golf. Jedes Beispiel-Event hat jetzt sein
 eigenes Titelbild und eine Galerie aus seiner Kategorie, ohne Wiederholungen. Die
 Weihnachtsfeier-Seite zeigt alle acht Indoor-Formate mit eigenem Motiv.
+
+**[Firmen] Weihnachtsfeier mit Indoor Golf: neue Seite mit Karte aller Simulatoren.**
+Die Weihnachtsfeier-Seite zeigt jetzt Angebote rund um euren Standort (PLZ oder
+Standortfreigabe), eine Karte mit über 150 Golfsimulatoren in Deutschland und
+alle Spielformate vom Longest Drive bis zur St.-Andrews-Runde. Jede Anlage lässt
+sich direkt aus der Karte anfragen, wir kümmern uns um den Rest. Das Sommerfest
+2027 hat den gleichen Aufbau mit Golfplatz-Karte bekommen.
+
+**[Firmen] Anfrage schneller und passender.**
+Im Anfrage-Dialog steht die Indoor Weihnachtsfeier jetzt an zweiter Stelle, unter
+„Andere Events" könnt ihr frei beschreiben, was ihr plant. Der Budgetrechner
+übergibt eure Auswahl direkt in die Anfrage. Jede Anfrage bekommt eine
+Vorgangsnummer, die in eurer Bestätigungsmail steht.
+
+**[Firmen] Event-Seiten am Handy neu sortiert.**
+Bilder zum Wischen, Tagesablauf, dann Buchen. Preis pro Person und
+Wunschtermin-Anfrage bleiben unten immer erreichbar, Zusatzleistungen lassen
+sich direkt im Anfrage-Dialog auswählen. Alle Bedienelemente sind jetzt
+fingerfreundlich groß.
