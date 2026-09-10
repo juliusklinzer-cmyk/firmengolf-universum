@@ -65,3 +65,14 @@ Die Events-Plattform führt dieselben ~20 Anlagen als Event-Partner
   firmengolf-events.de); Platzreife = „Power-Paket" (Club-Preis 599 €), via Discover:
   12 Monate Bindung oder 499 € Eigenanteil; Pro-Foto (Marco Melik) freigegeben.
 - **Gut Kaden**: Access = „Kaden Woche" Mo–Fr.
+
+## Indoor-Partner auf der Events-Plattform (firmengolf-events.de)
+
+Stand 10.09.2026. Simulator-Ansprache läuft in drei Wellen (Doku im Events-Repo unter `docs/simulatoren-*`).
+
+| Anlage | Status |
+|---|---|
+| RUFF Indoor Golf Dreieich | erste Indoor-Partneranlage, Weihnachtsfeier buchbar (84 bis 119 € p. P.), Event `/firmenevents/weihnachtsfeier-im-ruff/` |
+| Tap Inn Wasserburg | Rückmeldung: Selbstversorger-Lounge ohne Personal, Antwort mit Selbstversorger-Format im Entwurf |
+| Welle 1 (21 Mails) | am 10.09. gesendet |
+| Welle 2 (25 Mails) | als Outlook-Entwürfe vorbereitet |
