@@ -72,7 +72,7 @@ Stand 10.09.2026. Simulator-Ansprache läuft in drei Wellen (Doku im Events-Repo
 
 | Anlage | Status |
 |---|---|
-| RUFF Indoor Golf Dreieich | erste Indoor-Partneranlage, Weihnachtsfeier buchbar (84 bis 119 € p. P.), Event `/firmenevents/weihnachtsfeier-im-ruff/` |
+| RUFF Indoor Golf Dreieich | erste Indoor-Partneranlage, Weihnachtsfeier (84 bis 119 € p. P., `/firmenevents/weihnachtsfeier-im-ruff/`) und Teamevent (`/firmenevents/teamevent-im-ruff/`) buchbar |
 | Tap Inn Wasserburg | Rückmeldung: Selbstversorger-Lounge ohne Personal, Antwort mit Selbstversorger-Format im Entwurf |
 | Welle 1 (21 Mails) | am 10.09. gesendet |
 | Welle 2 (25 Mails) | als Outlook-Entwürfe vorbereitet |
