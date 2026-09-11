@@ -76,3 +76,4 @@ Stand 10.09.2026. Simulator-Ansprache läuft in drei Wellen (Doku im Events-Repo
 | Tap Inn Wasserburg | Rückmeldung: Selbstversorger-Lounge ohne Personal, Antwort mit Selbstversorger-Format im Entwurf |
 | Welle 1 (21 Mails) | am 10.09. gesendet |
 | Welle 2 (25 Mails) | als Outlook-Entwürfe vorbereitet |
+| Welle 3 (100 Mails, Golfclubs/Hotels in Sie-Form, Rest Du) | als Outlook-Entwürfe vorbereitet (11.09.) |
