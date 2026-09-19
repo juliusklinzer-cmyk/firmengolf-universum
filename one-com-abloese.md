@@ -148,3 +148,20 @@ Erst wenn Phase 1 bis 3 extern verifiziert sind: one.com-Abo kündigen
   täglich gelesene Postfach umstellen (JULIUS, in konsoleH/Robot).
 - Domain-Wächter: täglicher Cron-Check aller 5 Domains gegen die DENIC-Zone
   plus HTTP-Check, Alarm-Mail an Gmail (CLAUDE, auf Go).
+
+## 19.09.2026: fair-way-golf.com komplett neu gebaut und live
+
+- Neue Website (eigenes WordPress-Theme `fairwaygolf`, kein Elementor) ersetzt die
+  alte one.com-Migration. Repo: https://github.com/juliusklinzer-cmyk/Fair-Way-Golf,
+  Projekt lokal `~/projects/fairwaygolf`.
+- Tausch ohne Duplicator: Einmal-Installer per SFTP (FTP-User c5wkuy_0, Start
+  `/public_html/` = Webspace-Root mit ALLEN Seiten). Regel: nur im Ordner
+  `fair-way-golf.com` arbeiten, alte Seite dort gelöscht, kein Rollback (Julius).
+- Datenbank: weiterhin `c5wkuy_db0` auf lx2m.your-database.de (geteilt), neue
+  Tabellen mit Präfix `fwg_`; alte Tabellen `www0_` bleiben (Voranmeldungen 1. Anlauf).
+- Mail der Website läuft vorerst über den Hetzner-Mailer → landet im Spam, weil der
+  SPF-Eintrag der Domain (`include:_spf.mlsend.com include:spf.protection.outlook.com -all`)
+  Hetzner nicht erlaubt und kein DMARC existiert. Plan: `include:_spf.hetzner.com`
+  ergänzen (sofort) und Brevo-Domain-Authentifizierung wie bei firmengolf.app
+  (brevo-code-TXT, DKIM-CNAMEs brevo1/brevo2), dann Brevo-SMTP in der wp-config.
+- PHP live 8.2 (konsoleH), WP-Cron intern bis konsoleH-Cronjob existiert, HSTS fehlt.
