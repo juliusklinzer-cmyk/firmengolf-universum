@@ -159,9 +159,10 @@ Erst wenn Phase 1 bis 3 extern verifiziert sind: one.com-Abo kündigen
   `fair-way-golf.com` arbeiten, alte Seite dort gelöscht, kein Rollback (Julius).
 - Datenbank: weiterhin `c5wkuy_db0` auf lx2m.your-database.de (geteilt), neue
   Tabellen mit Präfix `fwg_`; alte Tabellen `www0_` bleiben (Voranmeldungen 1. Anlauf).
-- Mail der Website läuft vorerst über den Hetzner-Mailer → landet im Spam, weil der
-  SPF-Eintrag der Domain (`include:_spf.mlsend.com include:spf.protection.outlook.com -all`)
-  Hetzner nicht erlaubt und kein DMARC existiert. Plan: `include:_spf.hetzner.com`
-  ergänzen (sofort) und Brevo-Domain-Authentifizierung wie bei firmengolf.app
-  (brevo-code-TXT, DKIM-CNAMEs brevo1/brevo2), dann Brevo-SMTP in der wp-config.
+- Mail: erst Hetzner-Mailer (Spam wegen SPF-Fail), seit 19.09. abends Brevo wie bei
+  firmengolf.app: Domain in Brevo, DNS in konsoleH (brevo-code-TXT, DKIM-CNAMEs brevo1/brevo2
+  mit Punkt am Ende, DMARC p=none), SMTP-Zugang des gemeinsamen Brevo-Kontos in der wp-config.
+  SPF der Domain unverändert (kein Hetzner-Include nötig, weil nichts mehr über Hetzner geht).
+- GA4 live mit bestehender Property „Fair-Way-Golf – GA4“ (G-W3C5ZYZKLL), Klaro-Banner 1:1
+  aus firmengolf.app (zentriertes Modal), Design in Grün.
 - PHP live 8.2 (konsoleH), WP-Cron intern bis konsoleH-Cronjob existiert, HSTS fehlt.
