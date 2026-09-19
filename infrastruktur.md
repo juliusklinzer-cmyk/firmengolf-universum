@@ -80,3 +80,19 @@ Stand: 19.07.2026. Zugangsdaten liegen NICHT hier, sondern je Projekt
   lebt auf firmengolf.app, Mail läuft über @firmengolf.app, firmen.golf leitet um.
 - Events-Go-Live-Runbooks referenzieren One.com — Hosting ist längst Hetzner.
 - Bei Widersprüchen zwischen Projekt-Doku und diesem Repo gilt: **dieses Repo.**
+
+## Google Analytics: Bestandsaufnahme 19.09.2026 (Konten und Properties)
+
+| Konto | Property | Stream(s) | Mess-ID | Status / Plan |
+|---|---|---|---|---|
+| FairWayGolf 186456140 | Fair-Way-Golf – GA4 (352922895) | www.fair-way-golf.com | G-W3C5ZYZKLL | **aktiv**, seit 19.09. auf der neuen Seite |
+| FairWayGolf | fair-way-golf.com/ GA4 - MonsterInsights (360965649) | alt | – | Papierkorb (altes Plugin) |
+| Firmengolf 374654288 | Firmengolf-Events (544641045) | firmengolf-events.de | G-17GGY2WEEV | **aktiv** (Events-Seite) |
+| Firmengolf | Firmenevents (543051965) | visionpunch.de | – | keine Daten, Karteileiche |
+| Firmengolf | www.firmen.golf (512498120) | www.firmen.golf, firmen.golf | – | keine Daten (firmen.golf leitet auf firmengolf.app) |
+| Spotee-Golf 218971119 | Firmengolf.app (546099170) | firmengolf.app | G-NBZH1PR8M2 | **aktiv**, gehört ins Konto Firmengolf (verschieben) |
+| Spotee-Golf | Spotee-Golf (301738806) | www.spotee-golf.de | – | behalten für den Spotee-Neubau |
+| Spotee-Golf | Spotee-Golf – … (301752728) | www.fair-way-golf.de, www.spotee-golf.de, firmen.golf | G-MT7VRFWH8J (fair-way-golf.de-Stream) | Sammelsurium der alten Seiten, nach Spotee-Neubau Papierkorb |
+
+Wunsch Julius: Konto Firmengolf = Events, firmengolf.app, firmen.golf; Konto Spotee-Golf = nur Spotee.
+Hinweis: spotee-golf.de war am 19.09.2026 nicht erreichbar (Verbindung abgelehnt).
