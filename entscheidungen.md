@@ -515,3 +515,24 @@ Settlement-Kennzeichnung und Umsatzsteuer (Mehrzweck-Guthaben, USt bei Einlösun
   Preisliste vom 30.07.2026.
 - Umsetzung inkl. Eigenanteil-Rechner (rechnet jetzt mit Dezimalbeträgen,
   Discover+ bei vollem Zuschuss = 10 € Eigenanteil) im Website-Audit-Fix 13.08.
+
+## 18.09.2026 — Partnercodes nur für Multiplikatoren (Events-Session)
+
+- **Partnercodes gibt es nur für Multiplikatoren**: Content Creator, DGV
+  (Jugendförderung), GMVD, Agenturen. Golfplatz-Partner bekommen keinen Code:
+  sie wollen, dass ihre Kurse gebucht werden, und können ihre eigenen Preise
+  senken. Die Firmengolf-Marge auf Events bleibt starr bei 20 %.
+- **Ein Code je Partner**, angelegt nur von Julius im Backend der Events-Seite
+  (Menü „Partnercodes"). Kein Selbstservice, keine Golfplatz-Codes.
+- **Wirkung**: Der Kunde bekommt einen Rabatt auf die Netto-Zwischensumme des
+  Angebots (je Code einstellbar, Standard 5 %). Der Multiplikator bekommt eine
+  feste Provision in Euro je angenommenem Angebot, storniert bei Absage.
+  Rabatt und Provision gehen zulasten der Firmengolf-Marge, der Golfplatz
+  erhält weiterhin sein volles Netto.
+- **Abrechnung von Hand**: Provision wird außerhalb des Systems ausgezahlt
+  (Überweisung, Gutschrift in Lexoffice) und dann im Backend „als abgerechnet"
+  markiert. Eingabe für Kunden: Feld im Anfrage-Dialog oder Link `?pc=CODE`.
+- **Angebot enthält nur das Nötigste** (Julius, 18.09.): Die Anzahlungsregel
+  bei großen Buchungen steht nur in den AGB, nicht im Angebot oder auf der
+  Rechnung. Hinweis: AGB § 5 (2) nennt 5.000 € netto, Julius sprach von
+  10.000 €, Abgleich offen.

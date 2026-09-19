@@ -2,6 +2,13 @@
 
 Neueste Einträge oben. Nur Änderungen mit Wirkung über ein Projekt hinaus.
 
+## 2026-09-19
+
+- **Partnercodes für Multiplikatoren** auf der Events-Seite live (1.9.266):
+  Rabatt für den Kunden, feste Provision je Buchung, Verwaltung im Backend;
+  keine Codes für Golfplätze, Marge bleibt 20 % (Details `entscheidungen.md`).
+  Betrifft Multiplikatoren-Ansprache (DGV, GMVD, Creator) und Lexoffice-Gutschriften.
+
 ## 2026-08-13
 
 - **Zuschuss-Kommunikation: überall 49,90 €** statt „bis zu 50 €", Discover
